@@ -42,7 +42,7 @@ theme:
 plugins:
   - social:
       cards_layout_options:
-        background_color: "#002445"
+        background_color: blue
   - search:
       separator: '[\s\-\.]'
       # min_length: 2
