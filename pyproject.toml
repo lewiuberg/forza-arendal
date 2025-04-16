@@ -1,7 +1,155 @@
 [project]
 name = "forza-arendal"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
+description = "Forza Arendal er supporter klubben til Arendal Fotball"
+readme = {file = "README.md", content-type = "text/markdown"}
+license-files = ["https://github.com/lewiuberg/forza-arendal/blob/master/LICENSE"]
+license = "MIT"
+authors = [
+    {name = "Lewi Lie Uberg", email = "lewiuberg@icloud.com"},
+]
+maintainers = [
+    {name = "Lewi Lie Uberg", email = "lewiuberg@icloud.com"},
+]
+keywords = ["football", "fotball", "Arendal", "Arendal Fotball", "Forza Arendal"]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+]
 requires-python = ">=3.13.1"
 dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/lewiuberg/forza-arendal"
+Documentation = "https://lewiuberg.github.io/forza-arendal/"
+Repository = "https://github.com/lewiuberg/forza-arendal"
+Issues = "https://github.com/lewiuberg/forza-arendal/issues"
+Changelog = "https://github.com/lewiuberg/forza-arendal/blob/master/CHANGELOG"
+TermsOfService = "https://github.com/lewiuberg/forza-arendal/blob/master/TERMS_OF_SERVICE.md"
+Orcid = "https://orcid.org/0000-0001-8839-0960"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.4",
+    "mypy>=1.14.1",
+]
+docs = [
+    "essentials-openapi[full]>=1.1.1",
+    "markdown-include>=0.8.1",
+    "mkdocs>=1.6.1",
+    "mkdocs-macros-plugin>=1.3.7",
+    "mkdocs-material[imaging]>=9.6.7",
+    "pymdown-extensions>=10.14.3",
+]
+
+[tool.uv]
+# ------------------------------------ UV ------------------------------------
+default-groups = ["dev"]
+
+[tool.ruff]
+# ----------------------------------- RUFF -----------------------------------
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".git-rewrite",
+    ".hg",
+    ".ipynb_checkpoints",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".pyenv",
+    ".pytest_cache",
+    ".pytype",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    ".vscode",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "site-packages",
+    "venv",
+]
+
+line-length = 79
+indent-width = 4
+
+target-version = "py313"
+
+[tool.ruff.lint]
+# -------------------------------- RUFF: LINT --------------------------------
+select = [
+    "F", # pyflakes (F): Error detection
+    "E", # pycodesyle (E): Error detection
+    "W", # pycodesyle (W): Warning detection
+    "I", # isort (I): Import sorting
+    "N", # pep8-naming (N): PEP 8 naming conventions
+    "D", # flake8-docstrings (D): Docstring conventions
+    "C", # McCabe (C): Cyclomatic complexity
+    "B", # flake8-bugbear (B): Likely bugs and design problems
+    "UP", # Pyupgrade (UP): Upgrade syntax to newer versions
+    "RUF100", # Ruff (RUF100): Remove unused imports
+]
+
+ignore = [
+    "E203", # Whitespace before ':'
+]
+
+preview = true  # Enables opt-in preview mode for unstable features and new rules.
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["F401"]  # Ignore unused imports in __init__.py files.
+
+[tool.ruff.lint.pydocstyle]
+convention = "numpy"  # Use NumPy-style docstrings.
+
+[tool.ruff.format]
+# -------------------------------- RUFF: FORMAT ------------------------------
+quote-style = "double"
+indent-style = "space"
+docstring-code-format = true  # Equivalent to `docformatter`
+line-ending = "auto"
+docstring-code-line-length = 79
+
+[tool.mypy]
+# ----------------------------------- MYPY -----------------------------------
+plugins = [
+    "loguru.mypy",
+    "pydantic.mypy"
+]
+
+strict = true
+warn_redundant_casts = true
+
+[tool.pydantic-mypy]
+# ------------------------------ MYPY: PYDANTIC ------------------------------
+init_forbid_extra = true
+init_typed = true
+warn_required_dynamic_aliases = true
+warn_untyped_fields = true
+
+[tool.pytest.ini_options]
+# ------------------------------- TOOL:PYTEST -------------------------------
+testpaths = ["tests", "tests/integration", "src"]
+addopts = "-v"
+python_files = "test_*.py"
+# asyncio_mode = "auto"
+
+[tool.coverage.report]
+# ----------------------------- TOOL:PYTEST-COV -----------------------------
+exclude_lines = [
+    "pragma: no cover",
+    "if TYPE_CHECKING:"
+]

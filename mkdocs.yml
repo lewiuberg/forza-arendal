@@ -1,0 +1,169 @@
+site_name: Forza Arendal
+site_description: Forza Arendal er supporter klubben til Arendal Fotball
+site_url: "https://lewiuberg.github.io/forza-arendal/"
+# repo_url: "https://github.com/lewiuberg/forza-arendal"
+repo_name: forza-arendal
+edit_uri: blob/forza-arendal/docs/
+author: Lewi Lie Uberg
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/images/logo/forza-white.png
+  favicon: assets/images/logo/favicon/favicon.ico
+  language: en
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.integrate
+    - content.tabs.link
+    - navigation.top
+    - navigation.indexes
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.tracking
+    # - navigation.expand
+    # - navigation.sections
+    # - header.autohide
+plugins:
+  - social:
+      cards_layout_options:
+        background_color: "#002445"
+  - search:
+      separator: '[\s\-\.]'
+      # min_length: 2
+      # indexing:
+      #   "full"
+      # media_type: print
+      # enabled_if_env: ENABLE_PDF_EXPORT
+  - blog
+  - macros:
+      enabled_if_env: ENABLE_PDF_EXPORT
+markdown_extensions:
+  - toc:
+      permalink: true
+      title: "Table of Contents"
+      permalink_title: Anchor link to this section for reference
+  - markdown_include.include:
+      base_path: docs
+  - markdown.extensions.footnotes
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.tables
+  - markdown.extensions.abbr
+  - markdown.extensions.md_in_html
+  - pymdownx.highlight:
+      # auto_title: true
+      # anchor_linenums: true
+      # linenums: true
+      # linenums_style: pymdownx-inline
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      # tabbed_code_style: pymdownx-inline
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.betterem
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - admonition
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/network-wired
+      link: https://uberg.me
+      name: Author website
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/lewiuberg/
+      name: Author on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/lewiuberg
+      name: Author on GitHub
+    - icon: fontawesome/brands/medium
+      link: https://lewiuberg.medium.com
+      name: Author on Medium
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/user/lewiuberg/
+      name: Author on PyPI
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/10685529/lewi-uberg
+      name: Author on Stack Overflow
+  analytics:
+    provider: google
+    property: G-X5TVX1RNG8
+    feedback:
+      title: Var denne siden nyttig?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Denne siden var nyttig
+          data: 1
+          note: >-
+            Takk for tilbakemeldingen!
+        - icon: material/thumb-down-outline
+          name: Denne siden kan forbedres
+          data: 0
+          note: >-
+            Takk for tilbakemeldingen! Hjelp oss med å forbedre denne siden ved
+            å bruke vårt <a href="..." target="_blank" rel="noopener">tilbakemeldingsskjema</a>.
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage
+extra_css:
+  - stylesheets/extra.css
+# extra_javascript:
+#   - javascripts/extra.js
+copyright: >
+  Copyright &copy; 2025 - 2025 Lewi Lie Uberg –
+  <a href="#__consent">Change cookie settings</a>
+nav:
+  # - Home: /
+  - Arangementer: arrangementer.md
+  - Borteturer: borteturer.md
+  - Tabell: https://www.arendalfotball.no/tabell
+  - Om oss:
+      - om_oss/index.md
+      - Kontaktinformasjon: om_oss/kontaktinformasjon.md
+      - Historie: om_oss/historie.md
+      - Styre: om_oss/styre.md
+  - Medlem:
+      - medlem/index.md
+      - Facebook: https://www.facebook.com/groups/925941790767776
+      - Medlemsfordeler: medlem/medlemsfordeler.md
+  - Nyheter:
+      - blog/index.md
