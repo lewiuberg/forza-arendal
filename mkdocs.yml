@@ -168,9 +168,9 @@ nav:
   # - Tabell: https://www.arendalfotball.no/tabell
   - Tabell: tabell.md
   - Om oss: om_oss.md
-  - Medlem:
-      - medlem/index.md
-      - Facebook: https://www.facebook.com/groups/925941790767776
+  - Butikk:
+      - butikk/index.md
       - Medlemsfordeler: medlem/medlemsfordeler.md
   - Nyheter:
       - blog/index.md
+  - Facebook: https://www.facebook.com/groups/925941790767776

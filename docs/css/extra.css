@@ -97,6 +97,27 @@
   --md-footer-bg-color--dark: hsla(209, 50%, 13.5%, 0.32);
 }
 
+.row-highlight {
+  background-color: #002445;
+  color: #ffffff;
+}
+
+.md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+  display: table;
+}
+
+/* .md-typeset__table {
+  max-width: 100% !important;
+} */
+
+.wy-table-responsive table td {
+  white-space: normal;
+}
+
 /* Logo */
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
