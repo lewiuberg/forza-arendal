@@ -1,5 +1,5 @@
 site_name: Forza Arendal
-site_description: Forza Arendal er supporter klubben til Arendal Fotball
+site_description: Forza Arendal er en supportergruppe for Arendal Fotball, dedikert til å skape en positiv atmosfære under kampene.
 site_url: "https://lewiuberg.github.io/forza-arendal/"
 # repo_url: "https://github.com/lewiuberg/forza-arendal"
 repo_name: forza-arendal
@@ -10,21 +10,30 @@ theme:
   icon:
     repo: fontawesome/brands/github
   logo: assets/images/logo/forza-white.png
-  favicon: assets/images/logo/favicon/favicon.ico
+  favicon: assets/images/logo/favicon.ico
   language: en
   palette:
-    - scheme: default
+    # Palette toggle for automatic mode
+    # - media: "(prefers-color-scheme)"
+    #   toggle:
+    #     icon: material/lightbulb-auto
+    #     name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: custom
       accent: custom
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
-    - scheme: slate
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: custom
       accent: custom
       toggle:
         icon: material/lightbulb-outline
-        name: Switch to light mode
+        name: Switch to system preference
   features:
     - search.suggest
     - search.highlight
@@ -42,7 +51,7 @@ theme:
 plugins:
   - social:
       cards_layout_options:
-        background_color: blue
+        background_color: "#002445"
   - search:
       separator: '[\s\-\.]'
       # min_length: 2
@@ -53,6 +62,7 @@ plugins:
   - blog
   - macros:
       enabled_if_env: ENABLE_PDF_EXPORT
+  - table-reader
 markdown_extensions:
   - toc:
       permalink: true
@@ -145,22 +155,20 @@ extra:
       - accept
       - manage
 extra_css:
-  - stylesheets/extra.css
-# extra_javascript:
-#   - javascripts/extra.js
+  - css/extra.css
+extra_javascript:
+  # - javascripts/extra.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 copyright: >
   Copyright &copy; 2025 - 2025 Lewi Lie Uberg –
   <a href="#__consent">Change cookie settings</a>
 nav:
   # - Home: /
   - Arangementer: arrangementer.md
-  - Borteturer: borteturer.md
-  - Tabell: https://www.arendalfotball.no/tabell
-  - Om oss:
-      - om_oss/index.md
-      - Kontaktinformasjon: om_oss/kontaktinformasjon.md
-      - Historie: om_oss/historie.md
-      - Styre: om_oss/styre.md
+  # - Tabell: https://www.arendalfotball.no/tabell
+  - Tabell: tabell.md
+  - Om oss: om_oss.md
   - Medlem:
       - medlem/index.md
       - Facebook: https://www.facebook.com/groups/925941790767776
