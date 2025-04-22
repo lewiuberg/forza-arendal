@@ -62,7 +62,6 @@ plugins:
   - blog
   - macros:
       enabled_if_env: ENABLE_PDF_EXPORT
-  - table-reader
 markdown_extensions:
   - toc:
       permalink: true
