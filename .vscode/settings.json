@@ -1,0 +1,11 @@
+{
+  // "cSpell.enabled": false,
+  // -------------------------------- PYTHON ---------------------------------
+  "python.terminal.activateEnvironment": true,
+  // -------------------------------- PYTEST ---------------------------------
+  // "testExplorer.useNativeTesting": true,
+  // --------------------------------- MISC ----------------------------------
+  "cSpell.words": ["Forza"]
+  // TODO: is there a better way to fix config types?
+  // "python.analysis.typeCheckingMode": "off"
+}
