@@ -12,7 +12,7 @@ Vi tilbyr et utvalg produkter som du kan kjøpe via vår Vipps-butikk. Klikk på
 
 <div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
 
-    <a href="https://www.google.com" style="text-decoration: none; color: inherit; width: 400px;">
+    <a href="https://qr.vipps.no/28/2/05/031/uBreCt1YM" style="text-decoration: none; color: inherit; width: 100%; max-width: 400px;">
         <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px; border: 1px solid #8c8e95; border-radius: 10px; background-color: #002445; color: #ffffff; width: 100%;">
             <span style="flex: 2; text-align: left;">Medlemskap</span>
             <span style="flex: 1; text-align: left;">200 NOK</span>
@@ -20,7 +20,7 @@ Vi tilbyr et utvalg produkter som du kan kjøpe via vår Vipps-butikk. Klikk på
         </div>
     </a>
 
-    <a href="https://www.google.com" style="text-decoration: none; color: inherit; width: 400px;">
+    <a href="https://qr.vipps.no/28/2/05/031/fXwlpC1Dp" style="text-decoration: none; color: inherit; width: 100%; max-width: 400px;">
         <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px; border: 1px solid #8c8e95; border-radius: 10px; background-color: #002445; color: #ffffff; width: 100%;">
             <span style="flex: 2; text-align: left;">Sesongkort</span>
             <span style="flex: 1; text-align: left;">500 NOK</span>
@@ -28,7 +28,7 @@ Vi tilbyr et utvalg produkter som du kan kjøpe via vår Vipps-butikk. Klikk på
         </div>
     </a>
 
-    <a href="https://www.google.com" style="text-decoration: none; color: inherit; width: 400px;">
+    <a href="https://qr.vipps.no/28/2/05/031/Fe2xB-QDM" style="text-decoration: none; color: inherit; width: 100%; max-width: 400px;">
         <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px; border: 1px solid #8c8e95; border-radius: 10px; background-color: #002445; color: #ffffff; width: 100%;">
             <span style="flex: 2; text-align: left;">Flagg</span>
             <span style="flex: 1; text-align: left;">100 NOK</span>
@@ -36,7 +36,7 @@ Vi tilbyr et utvalg produkter som du kan kjøpe via vår Vipps-butikk. Klikk på
         </div>
     </a>
 
-    <a href="https://www.google.com" style="text-decoration: none; color: inherit; width: 400px;">
+    <a href="https://qr.vipps.no/28/2/05/031/Qniio-1YM" style="text-decoration: none; color: inherit; width: 100%; max-width: 400px;">
         <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px; border: 1px solid #8c8e95; border-radius: 10px; background-color: #002445; color: #ffffff; width: 100%;">
             <span style="flex: 2; text-align: left;">Bortetur</span>
             <span style="flex: 1; text-align: left;">Etter avtale</span>
@@ -44,7 +44,7 @@ Vi tilbyr et utvalg produkter som du kan kjøpe via vår Vipps-butikk. Klikk på
         </div>
     </a>
 
-    <a href="https://www.google.com" style="text-decoration: none; color: inherit; width: 400px;">
+    <a href="https://qr.vipps.no/28/2/05/031/-9P2BzQDM" style="text-decoration: none; color: inherit; width: 100%; max-width: 400px;">
         <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px; border: 1px solid #8c8e95; border-radius: 10px; background-color: #002445; color: #ffffff; width: 100%;">
             <span style="flex: 2; text-align: left;">Donasjoner</span>
             <span style="flex: 1; text-align: left;">Valgfritt</span>

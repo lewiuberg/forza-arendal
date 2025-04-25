@@ -62,5 +62,5 @@ Forza Arendal er supporter klubben for Arendal Fotball. Her finner du informasjo
     <button id="toggle-slideshow-button" onclick="toggleSlideshow()" style="background-color: #8c8e95; color: #002445; border: 1px solid #8c8e95; padding: 10px 20px; margin: 0 5px; cursor: pointer; border-radius: 10px;">Stopp</button>
     <button onclick="nextImage()" style="background-color: #002445; color: #ffffff; border: none; padding: 10px 20px; margin-left: 5px; cursor: pointer; border-radius: 10px;">Neste</button>
   </div>
-  <img id="slideshow-image" src="./assets/images/arkiv/1.jpg" alt="Slideshow" style="max-width: 600px; height: 600px; object-fit: contain;" />
+  <img id="slideshow-image" src="./assets/images/arkiv/1.jpg" alt="Slideshow" style="max-width: 80%; height: auto; object-fit: contain; border: 2px solid #8c8e95; border-radius: 10px;" />
 </div>
