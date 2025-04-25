@@ -19,12 +19,12 @@ I dag er Forza kjent for sitt engasjement, sin kreativitet og sin dedikasjon til
 Styret i Forza Arendal er ansvarlig for den daglige driften av klubben. Styret har ansvar for å planlegge og gjennomføre arrangementer, samt å ivareta klubbens interesser.
 Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige styremedlemmene er oppnevnt av styret selv. Styret har møter jevnlig for å diskutere klubbens drift og fremtidige planer.
 
-| Rolle                | Navn                         | Telefon        | E-post                       |
+<!-- | Rolle                | Navn                         | Telefon        | E-post                       |
 | -------------------- | ---------------------------- | -------------- | ---------------------------- |
-| Leder                | Rune Fone                    | +47 999 99 999 | leder@forza-arendal.no       |
-| Nesteder             | Mads Bech-Willumstad         | +47 999 99 999 | nestleder@forza-arendal.no   |
+| Leder                | Rune Fone                    | +47 909 86 083 | mittgym@hotmail.com          |
+| Nesteder             | Mads Bech-Willumstad         | +47 947 91 442 | mads_willumstad@hotmail.com  |
 | Arrangementansvarlig | Kathrine Josefsen [^1]       | +47 999 99 999 | arrangement@forza-arendal.no |
-| Innkjøp              | Sondre Iuell Frydenlund [^1] | +47 999 99 999 | innkjop@forza-arendal.no     |
+| Innkjøp              | Sondre Iuell Frydenlund [^1] | +47 999 99 999 | innkjop@forza-arendal.no     | -->
 
 <table>
   <thead>
@@ -36,30 +36,31 @@ Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige s
     </tr>
   </thead>
   <tbody>
-    <tr class="row-highlight">
+    <tr>
       <td>Leder</td>
       <td>Rune Fone</td>
-      <td>+47 999 99 999</td>
-      <td>leder@forza-arendal.no</td>
+      <td><a href="tel:+4790986083">+47 909 86 083</a></td>
+      <td><a href="mailto:mittgym@hotmail.com">mittgym@hotmail.com</a></td>
     </tr>
-    <tr class="row-highlight">
+    <tr>
       <td>Nesteder</td>
       <td>Mads Bech-Willumstad</td>
-      <td>+47 999 99 999</td>
-      <td>nestleder@forza-arendal.no</td>
+      <td><a href="tel:+4794791442">+47 947 91 442</a></td>
+      <td><a href="mads_willumstad@hotmail.com">mads_willumstad@hotmail.com</a></td>
     </tr>
-    <tr class="row-highlight">
+    <tr>
       <td>Arrangementansvarlig</td>
       <td>Kathrine Josefsen [^1]</td>
       <td>+47 999 99 999</td>
       <td>arrangement@forza-arendal.no</td>
     </tr>
-    <tr class="row-highlight">
+    <tr>
       <td>Innkjøp</td>
       <td>Sondre Iuell Frydenlund [^1]</td>
       <td>+47 999 99 999</td>
       <td>innkjop@forza-arendal.no</td>
     </tr>
+
   </tbody>
 </table>
 
