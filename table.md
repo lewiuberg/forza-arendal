@@ -1,6 +1,16 @@
-| Rolle                | Navn                         | Telefon        | E-post                       |
-| -------------------- | ---------------------------- | -------------- | ---------------------------- |
-| Leder                | Rune Fone                    | +47 909 86 083 | mittgym@hotmail.com          |
-| Nesteder             | Mads Bech-Willumstad         | +47 947 91 442 | mads_willumstad@hotmail.com  |
-| Arrangementansvarlig | Kathrine Josefsen [^1]       | +47 999 99 999 | arrangement@forza-arendal.no |
-| Innkjøp              | Sondre Iuell Frydenlund [^1] | +47 999 99 999 | innkjop@forza-arendal.no     |
+| Plass | Lag                 | SPILT | VUNNET | UAVGJORT | TAP |  +  |  -  | +/- | POENG |
+| :---- | :------------------ | :---: | :----: | :------: | :-: | :-: | :-: | :-: | :---: |
+| 1     | Sotra               |   4   |   3    |    0     |  1  | 10  |  7  |  3  |   9   |
+| 2     | Notodden            |   4   |   2    |    2     |  0  |  7  |  4  |  3  |   8   |
+| 3     | Sotra               |   4   |   2    |    1     |  1  |  9  |  4  |  5  |   7   |
+| 4     | Sandnes Ulf         |   3   |   2    |    1     |  0  |  8  |  5  |  3  |   7   |
+| 5     | Jerv                |   4   |   2    |    1     |  1  |  7  |  6  |  1  |   7   |
+| 6     | Brann 2             |   3   |   2    |    0     |  1  | 10  |  9  |  1  |   6   |
+| 7     | Arendal             |   4   |   1    |    3     |  0  |  6  |  5  |  1  |   6   |
+| 8     | FK Eik Tønsberg 871 |   4   |   1    |    2     |  1  |  5  |  5  |  0  |   5   |
+| 8     | Pors                |   4   |   1    |    2     |  1  |  5  |  5  |  0  |   5   |
+| 10    | Lysekloster         |   4   |   1    |    1     |  2  |  5  |  6  | -1  |   4   |
+| 10    | Træff               |   4   |   1    |    1     |  2  |  5  |  6  | -1  |   4   |
+| 12    | Brattvåg            |   4   |   1    |    0     |  3  |  7  |  9  | -2  |   3   |
+| 13    | Vard Haugesund      |   4   |   0    |    1     |  3  |  3  |  7  | -4  |   1   |
+| 14    | Fløy-Flekkerøy      |   4   |   0    |    1     |  3  |  5  | 14  | -9  |   1   |
