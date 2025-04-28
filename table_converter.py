@@ -42,24 +42,14 @@ def markdown_table_to_html(markdown_file, output_file, highlight_rows=None):
 
     # Generate HTML table
     html_table = "<table>\n"
-    html_table += "  <thead>\n"
-    header_class = ' class="row-highlight"' if 0 in highlight_rows else ""
-    html_table += f"    <tr{header_class}>\n"
-    html_table += "".join(
-        [f"      <th>{header.strip()}</th>\n" for header in headers]
-    )
-    html_table += "    </tr>\n  </thead>\n"
-    html_table += "  <tbody>\n"
-    for i, row in enumerate(rows):
-        row_class = (
-            ' class="row-highlight"' if (i + 1) in highlight_rows else ""
-        )
+    for i, row in enumerate([headers] + rows):  # Combine headers and rows
+        row_class = ' class="row-highlight"' if i in highlight_rows else ""
         html_table += f"    <tr{row_class}>\n"
         html_table += "".join(
-            [f"      <td>{cell.strip()}</td>\n" for cell in row]
+            [f"        <td>{cell.strip()}</td>\n" for cell in row]
         )
         html_table += "    </tr>\n"
-    html_table += "  </tbody>\n</table>"
+    html_table += "</table>"
 
     # Write to output file
     with open(output_file, "w", encoding="utf-8") as file:
