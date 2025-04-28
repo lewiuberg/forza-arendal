@@ -15,12 +15,12 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
 <!-- | Plass | Lag                 | SPILT | VUNNET | UAVGJORT | TAP |  +  |  -  | +/- | POENG |
 | :---- | :------------------ | :---: | :----: | :------: | :-: | :-: | :-: | :-: | :---: |
-| 1     | Sotra               |   4   |   3    |    0     |  1  |  10  |  7  |  3  |   9   |
+| 1     | Sotra               |   4   |   3    |    0     |  1  | 10  |  7  |  3  |   9   |
 | 2     | Notodden            |   4   |   2    |    2     |  0  |  7  |  4  |  3  |   8   |
 | 3     | Sotra               |   4   |   2    |    1     |  1  |  9  |  4  |  5  |   7   |
 | 4     | Sandnes Ulf         |   3   |   2    |    1     |  0  |  8  |  5  |  3  |   7   |
 | 5     | Jerv                |   4   |   2    |    1     |  1  |  7  |  6  |  1  |   7   |
-| 6     | Brann 2             |   3   |   2    |    0     |  1  |  10  |  9  |  1  |   6   |
+| 6     | Brann 2             |   3   |   2    |    0     |  1  | 10  |  9  |  1  |   6   |
 | 7     | Arendal             |   4   |   1    |    3     |  0  |  6  |  5  |  1  |   6   |
 | 8     | FK Eik Tønsberg 871 |   4   |   1    |    2     |  1  |  5  |  5  |  0  |   5   |
 | 8     | Pors                |   4   |   1    |    2     |  1  |  5  |  5  |  0  |   5   |
@@ -28,193 +28,189 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 | 10    | Træff               |   4   |   1    |    1     |  2  |  5  |  6  | -1  |   4   |
 | 12    | Brattvåg            |   4   |   1    |    0     |  3  |  7  |  9  | -2  |   3   |
 | 13    | Vard Haugesund      |   4   |   0    |    1     |  3  |  3  |  7  | -4  |   1   |
-| 14    | Fløy-Flekkerøy      |   4   |   0    |    1     |  3  |  5  |  14 | -9  |   1   | -->
+| 14    | Fløy-Flekkerøy      |   4   |   0    |    1     |  3  |  5  | 14  | -9  |   1   | -->
 
 <table>
-  <thead>
     <tr class="row-highlight">
-      <th>Plass</th>
-      <th>Lag</th>
-      <th>SPILT</th>
-      <th>VUNNET</th>
-      <th>UAVGJORT</th>
-      <th>TAP</th>
-      <th>+</th>
-      <th>-</th>
-      <th>+/-</th>
-      <th>POENG</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Sotra</td>
-      <td>4</td>
-      <td>3</td>
-      <td>0</td>
-      <td>1</td>
-      <td>10</td>
-      <td>7</td>
-      <td>3</td>
-      <td>9</td>
+        <td>Plass</td>
+        <td>Lag</td>
+        <td>SPILT</td>
+        <td>VUNNET</td>
+        <td>UAVGJORT</td>
+        <td>TAP</td>
+        <td>+</td>
+        <td>-</td>
+        <td>+/-</td>
+        <td>POENG</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>Notodden</td>
-      <td>4</td>
-      <td>2</td>
-      <td>2</td>
-      <td>0</td>
-      <td>7</td>
-      <td>4</td>
-      <td>3</td>
-      <td>8</td>
+        <td>1</td>
+        <td>Sotra</td>
+        <td>3</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>8</td>
+        <td>1</td>
+        <td>7</td>
+        <td>7</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Sotra</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>9</td>
-      <td>4</td>
-      <td>5</td>
-      <td>7</td>
+        <td>2</td>
+        <td>Sandnes Ulf</td>
+        <td>3</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>8</td>
+        <td>5</td>
+        <td>3</td>
+        <td>7</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Sandnes Ulf</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>8</td>
-      <td>5</td>
-      <td>3</td>
-      <td>7</td>
+        <td>3</td>
+        <td>Brann 2</td>
+        <td>3</td>
+        <td>2</td>
+        <td>0</td>
+        <td>1</td>
+        <td>10</td>
+        <td>9</td>
+        <td>1</td>
+        <td>6</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>Jerv</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>7</td>
-      <td>6</td>
-      <td>1</td>
-      <td>7</td>
+        <td>4</td>
+        <td>Sandviken</td>
+        <td>3</td>
+        <td>2</td>
+        <td>0</td>
+        <td>1</td>
+        <td>5</td>
+        <td>4</td>
+        <td>1</td>
+        <td>6</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>Brann 2</td>
-      <td>3</td>
-      <td>2</td>
-      <td>0</td>
-      <td>1</td>
-      <td>10</td>
-      <td>9</td>
-      <td>1</td>
-      <td>6</td>
+        <td>5</td>
+        <td>Notodden</td>
+        <td>3</td>
+        <td>1</td>
+        <td>2</td>
+        <td>0</td>
+        <td>4</td>
+        <td>3</td>
+        <td>1</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Træff</td>
+        <td>3</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>5</td>
+        <td>5</td>
+        <td>0</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>FK Eik Tønsberg 871</td>
+        <td>3</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Jerv</td>
+        <td>3</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Lysekloster</td>
+        <td>3</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>4</td>
     </tr>
     <tr class="row-highlight">
-      <td>7</td>
-      <td>Arendal</td>
-      <td>4</td>
-      <td>1</td>
-      <td>3</td>
-      <td>0</td>
-      <td>6</td>
-      <td>5</td>
-      <td>1</td>
-      <td>6</td>
+        <td>10</td>
+        <td>Arendal</td>
+        <td>3</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>5</td>
+        <td>5</td>
+        <td>0</td>
+        <td>3</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>FK Eik Tønsberg</td>
-      <td>4</td>
-      <td>1</td>
-      <td>2</td>
-      <td>1</td>
-      <td>5</td>
-      <td>5</td>
-      <td>0</td>
-      <td>5</td>
+        <td>11</td>
+        <td>Brattvåg</td>
+        <td>3</td>
+        <td>1</td>
+        <td>0</td>
+        <td>2</td>
+        <td>5</td>
+        <td>6</td>
+        <td>-1</td>
+        <td>3</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>Pors</td>
-      <td>4</td>
-      <td>1</td>
-      <td>2</td>
-      <td>1</td>
-      <td>5</td>
-      <td>5</td>
-      <td>0</td>
-      <td>5</td>
+        <td>12</td>
+        <td>Pors</td>
+        <td>3</td>
+        <td>0</td>
+        <td>2</td>
+        <td>1</td>
+        <td>3</td>
+        <td>4</td>
+        <td>-1</td>
+        <td>2</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>Lysekloster</td>
-      <td>4</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>5</td>
-      <td>6</td>
-      <td>-1</td>
-      <td>4</td>
+        <td>13</td>
+        <td>Fløy-Flekkerøy</td>
+        <td>3</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>2</td>
+        <td>9</td>
+        <td>-7</td>
+        <td>1</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>Træff</td>
-      <td>4</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>5</td>
-      <td>6</td>
-      <td>-1</td>
-      <td>4</td>
+        <td>14</td>
+        <td>Vard Haugesund</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+        <td>2</td>
+        <td>6</td>
+        <td>-4</td>
+        <td>0</td>
     </tr>
-    <tr>
-      <td>12</td>
-      <td>Brattvåg</td>
-      <td>4</td>
-      <td>1</td>
-      <td>0</td>
-      <td>3</td>
-      <td>7</td>
-      <td>9</td>
-      <td>-2</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Vard Haugesund</td>
-      <td>4</td>
-      <td>0</td>
-      <td>1</td>
-      <td>3</td>
-      <td>3</td>
-      <td>7</td>
-      <td>-4</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Fløy-Flekkerøy</td>
-      <td>4</td>
-      <td>0</td>
-      <td>1</td>
-      <td>3</td>
-      <td>5</td>
-      <td>14</td>
-      <td>-9</td>
-      <td>1</td>
-    </tr>
-  </tbody>
 </table>
 
 ## A-lag Kvinner
