@@ -32,7 +32,6 @@ Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige s
       <th>Rolle</th>
       <th>Navn</th>
       <th>Telefon</th>
-      <th>E-post</th>
     </tr>
   </thead>
   <tbody>
@@ -40,27 +39,25 @@ Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige s
       <td>Leder</td>
       <td>Rune Fone</td>
       <td><a href="tel:+4790986083">+47 909 86 083</a></td>
-      <td><a href="mailto:leder@forza-arendal.no">leder@forza-arendal.no</a></td>
     </tr>
     <tr>
       <td>Nesteder</td>
       <td>Mads Bech-Willumstad</td>
       <td><a href="tel:+4794791442">+47 947 91 442</a></td>
-      <td><a href="nestleder@@forza-arendal.no">nestleder@@forza-arendal.no</a></td>
     </tr>
     <tr>
       <td>Arrangementansvarlig</td>
       <td>Kathrine Josefsen [^1]</td>
       <td><a href="tel:+4795005464">+47 950 05 464</a></td>
-      <td><a href="mailto:arrangement@forza-arendal.no">arrangement@forza-arendal.no</a></td>
     </tr>
     <tr>
       <td>Innkjøp</td>
       <td>Sondre Iuell Frydenlund [^1]</td>
       <td>+47 xxx xx xxx</td>
-      <td><a href="mailto:innkjop@forza-arendal.no">innkjop@forza-arendal.no</a></td>
     </tr>
   </tbody>
 </table>
+
+For generelle henvendelser, vennligst kontakt oss på e-post: <a href="mailto:kontakt@forza-arendal.no">kontakt@forza-arendal.no</a>.
 
 [^1]: Styremedlem
