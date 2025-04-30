@@ -1,6 +1,7 @@
 site_name: Forza Arendal
 site_description: Forza Arendal er en supportergruppe for Arendal Fotball, dedikert til å skape en positiv atmosfære under kampene.
-site_url: "https://lewiuberg.github.io/forza-arendal/"
+# site_url: "https://lewiuberg.github.io/forza-arendal/"
+site_url: "https://forza-arendal.no"
 # repo_url: "https://github.com/lewiuberg/forza-arendal"
 repo_name: forza-arendal
 edit_uri: blob/forza-arendal/docs/
