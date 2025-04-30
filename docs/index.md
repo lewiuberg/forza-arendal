@@ -10,13 +10,9 @@ hide:
 
 Forza Arendal er supporter klubben for Arendal Fotball. Her finner du informasjon om klubben, supporterklubben og hvordan du kan bli med i fellesskapet vårt.
 
-???+ forza "Advarsel"
-
-    Denne nettsiden er under utvikling og vil bli oppdatert jevnlig. Vi jobber med å forbedre innholdet og legge til flere funksjoner. Hvis du har spørsmål eller tilbakemeldinger, vennligst ta kontakt med oss.
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2061375208&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lewiuberg" title="lewiuberg" target="_blank" style="color: #cccccc; text-decoration: none;">lewiuberg</a> · <a href="https://soundcloud.com/lewiuberg/alt-for-myra-vi-gir-alt-mp3" title="Alt for Myra, vi gir alt.mp3" target="_blank" style="color: #cccccc; text-decoration: none;">Alt for Myra, vi gir alt.mp3</a></div>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div style="text-align: center;"><iframe width="80%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2087557665&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lewiuberg\" title="lewiuberg" target="_blank" style="color: #cccccc; text-decoration: none;">lewiuberg</a> · <a href="https://soundcloud.com/lewiuberg/forza-arendal\" title="Forza-Arendal" target="_blank" style="color: #cccccc; text-decoration: none;">Forza-Arendal</a></div></div>
 
 <script>
   let currentIndex = 0;
