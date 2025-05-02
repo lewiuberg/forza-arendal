@@ -115,6 +115,9 @@ Forza Arendal er supporter klubben for Arendal Fotball. Her finner du informasjo
     "./assets/images/arkiv/94.jpg",
     "./assets/images/arkiv/95.jpg",
     "./assets/images/arkiv/96.jpg",
+    "./assets/images/arkiv/97.jpg",
+    "./assets/images/arkiv/98.jpg",
+    "./assets/images/arkiv/99.jpg",
     // Add more image paths as needed
   ];
 
