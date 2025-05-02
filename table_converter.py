@@ -61,5 +61,5 @@ def markdown_table_to_html(markdown_file, output_file, highlight_rows=None):
 # Example usage
 markdown_file = "./table.md"
 output_file = "./table.html"
-highlight_rows = [0]  # Highlight the header and second data rows
+highlight_rows = [0, 6]  # Highlight the header and second data rows
 markdown_table_to_html(markdown_file, output_file, highlight_rows)
