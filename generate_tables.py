@@ -35,6 +35,27 @@ def fetch_table_data(url):
             cells = row.find_all(["th", "td"])
             cell_data = [cell.get_text(strip=True) for cell in cells]
             table_data.append(cell_data)  # Collect row data
+
+        # Remove 'Hjemme' and 'Borte' columns if present
+        if (
+            len(table_data) > 1
+            and "Hjemme" in table_data[0]
+            and "Borte" in table_data[0]
+        ):
+            # Identify indices for 'Hjemme' and 'Borte' columns
+            hjemme_start = table_data[0].index("Hjemme")
+            borte_start = table_data[0].index("Borte")
+            total_start = table_data[0].index("Total")
+
+            # Remove 'Hjemme' and 'Borte' columns from all rows
+            for i, row in enumerate(table_data):
+                del row[
+                    hjemme_start : borte_start + 4
+                ]  # Remove 'Hjemme' columns
+                del row[
+                    borte_start : total_start + 4 - len(row)
+                ]  # Remove 'Borte' columns
+
         all_tables_data.append(table_data)
 
     if not all_tables_data:
@@ -92,4 +113,9 @@ for idx, url in enumerate(urls):
 
     tables.extend(tables_from_url)  # Add each table as a separate entry
     print(f"Table data from {url} fetched and exported successfully.")
+    print("-" * 40)
+
+
+for table in tables:
+    print(table)
     print("-" * 40)
