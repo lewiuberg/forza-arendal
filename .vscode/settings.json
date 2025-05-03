@@ -5,7 +5,7 @@
   // -------------------------------- PYTEST ---------------------------------
   // "testExplorer.useNativeTesting": true,
   // --------------------------------- MISC ----------------------------------
-  "cSpell.words": ["Forza"]
+  "cSpell.words": ["arkiv", "Forza"]
   // TODO: is there a better way to fix config types?
   // "python.analysis.typeCheckingMode": "off"
 }
