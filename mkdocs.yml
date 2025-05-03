@@ -107,6 +107,8 @@ markdown_extensions:
   - pymdownx.details
   - admonition
 extra:
+  include:
+    - CNAME
   generator: false
   social:
     - icon: fontawesome/solid/network-wired
