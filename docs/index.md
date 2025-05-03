@@ -16,7 +16,22 @@ Forza Arendal er supporter klubben for Arendal Fotball. Her finner du informasjo
 
 <script>
   let currentIndex = 0;
-  const images = [
+
+  // List of prioritized images (GIFs first)
+  const prioritizedImages = [
+    "./assets/images/arkiv/500.gif",
+    "./assets/images/arkiv/501.gif",
+    "./assets/images/arkiv/1.jpg",
+    "./assets/images/arkiv/8.jpg",
+    "./assets/images/arkiv/11.jpg",
+    "./assets/images/arkiv/13.jpg",
+    "./assets/images/arkiv/16.jpg",
+    "./assets/images/arkiv/20.jpg",
+    "./assets/images/arkiv/14.jpg",
+  ];
+
+  // Full list of images
+  const allImages = [
     "./assets/images/arkiv/500.gif",
     "./assets/images/arkiv/501.gif",
     "./assets/images/arkiv/1.jpg",
@@ -126,6 +141,11 @@ Forza Arendal er supporter klubben for Arendal Fotball. Her finner du informasjo
     "./assets/images/arkiv/105.jpg",
     // Add more image paths as needed
   ];
+
+  // Combine prioritized images with the rest (randomized), ensuring no duplicates
+  const remainingImages = allImages.filter(img => !prioritizedImages.includes(img));
+  const shuffledRemainingImages = remainingImages.sort(() => Math.random() - 0.5);
+  const images = [...prioritizedImages, ...shuffledRemainingImages];
 
   let slideshowInterval;
   let isSlideshowRunning = true;
