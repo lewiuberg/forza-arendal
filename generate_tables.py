@@ -42,14 +42,54 @@ def fetch_table_data(url):
     return all_tables_data
 
 
+def export_table_to_html(table, output_file, highlight_rows=None):
+    """
+    Export a table (list of lists) to an HTML file with optional row highlighting.
+
+    Parameters
+    ----------
+    table : list
+        The table data as a list of lists.
+    output_file : str
+        The path to the output HTML file.
+    highlight_rows : list, optional
+        A list of row indices to highlight.
+    """
+    if highlight_rows is None:
+        highlight_rows = []
+
+    html_table = "<table>\n"
+    for i, row in enumerate(table):
+        row_class = ' class="row-highlight"' if i in highlight_rows else ""
+        html_table += f"    <tr{row_class}>\n"
+        html_table += "".join([f"        <td>{cell}</td>\n" for cell in row])
+        html_table += "    </tr>\n"
+    html_table += "</table>"
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        file.write(html_table)
+
+    print(f"Table exported to {output_file}")
+
+
 # fetch the table data for each URL and store it in the tables list
-for url in urls:
+for idx, url in enumerate(urls):
     print(f"Fetching data from {url}")
     tables_from_url = fetch_table_data(url)
-    tables.extend(tables_from_url)  # Add each table as a separate entry
-    print(f"Table data from {url} fetched successfully.")
-    print("-" * 40)
+    for table_idx, table in enumerate(tables_from_url):
+        # Determine rows to highlight
+        highlight_rows = [0]  # Always highlight the header row
+        for i, row in enumerate(table):
+            if any(
+                keyword in " ".join(row)
+                for keyword in ["Arendal", "Hisøy /Arendal 2"]
+            ):
+                highlight_rows.append(i)
 
-for table in tables:
-    print(table)
+        # Export each table to a separate HTML file
+        output_file = f"./table_{idx + 1}_{table_idx + 1}.html"
+        export_table_to_html(table, output_file, highlight_rows)
+
+    tables.extend(tables_from_url)  # Add each table as a separate entry
+    print(f"Table data from {url} fetched and exported successfully.")
     print("-" * 40)
