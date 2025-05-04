@@ -8,6 +8,9 @@ kvinner_table_path = "docs/assets/tables/3.div_Kvinner_avd_Sør.html"
 # Path to the output Markdown file
 output_md_path = "docs/tabell.md"
 
+# Ensure the output directory exists
+os.makedirs(os.path.dirname(output_md_path), exist_ok=True)
+
 if not os.path.exists(herrer_table_path):
     print(f"File not found: {herrer_table_path}")
 if not os.path.exists(kvinner_table_path):

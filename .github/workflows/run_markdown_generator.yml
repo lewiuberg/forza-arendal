@@ -18,8 +18,8 @@ jobs:
         with:
           python-version: "3.x"
 
-      #   - name: Install dependencies
-      #     run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
 
       - name: Run markdown generator script
         run: python backend/markdown_generator.py
