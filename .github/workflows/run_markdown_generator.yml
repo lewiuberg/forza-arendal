@@ -46,3 +46,14 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update gh-pages branch
+        run: |
+          git fetch origin gh-pages
+          git checkout gh-pages
+          cp docs/tabell.md docs/tabell.md
+          git add docs/tabell.md
+          git commit -m "Update tabell.md in gh-pages [skip ci]" || echo "No changes to commit"
+          git push origin gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,5 @@
 import os
-from datetime import datetime
+from datetime import UTC, datetime, timedelta
 
 # Paths to the input HTML files
 herrer_table_path = "docs/assets/tables/PostNord-ligaen_avd._1.html"
@@ -26,7 +26,10 @@ with open(kvinner_table_path, encoding="utf-8") as kvinner_file:
     kvinner_table = kvinner_file.read()
 
 # Generate the Markdown content
-timestamp = datetime.utcnow().strftime("%d.%m.%Y kl.%H:%M UTC")
+timestamp = (datetime.now(UTC) + timedelta(hours=2)).strftime(
+    "%Y-%m-%d %H:%M:%S"
+)  # Adjust for UTC+2
+
 markdown_content = f"""---
 author: "Lewi Lie Uberg"
 ---
