@@ -2,7 +2,8 @@ name: Run Markdown Generator
 
 on:
   schedule:
-    - cron: "30 20 * * *" # Runs every day at 19:32 UTC
+    - cron: "37 21 * * *" # Runs every day at 21:37 UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   run-script:
