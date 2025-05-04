@@ -1,3 +1,4 @@
+from convert import convert_table_to_html
 from scrape import scrape_tables
 
 urls = [
@@ -13,15 +14,15 @@ urls = [
 ]
 tables = scrape_tables(urls)
 
-# for url, tables_data in tables.items():
-#     print(f"Data from URL: {url}")
-#     for table_name, table in tables_data.items():
-#         print(f"{table_name}:")
-#         for row in table:
-#             print(row)
-#         print("\n")
+# Flatten the tables dictionary to use table names as keys
+flattened_tables = {}
+for url_tables in tables.values():
+    flattened_tables.update(url_tables)
 
-# print()
-# print(tables)
+# Convert tables to HTML
+html_tables = convert_table_to_html(flattened_tables)
 
-# a_table = {}
+# Print the HTML tables
+for html_table in html_tables:
+    print(html_table)
+    print("\n" + "=" * 80 + "\n")
