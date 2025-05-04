@@ -2,8 +2,9 @@ name: Run Markdown Generator
 
 on:
   schedule:
-    - cron: "55 20 * 3-10 *" # Runs at 20:55 UTC during daylight saving time (March to October)
-    - cron: "55 21 * 11-2 *" # Runs at 21:55 UTC during standard time (November to February)
+    - cron: "57 20 * 3-10 *" # Runs at 20:55 UTC during daylight saving time (March to October)
+    - cron: "57 21 * 11,12 *" # Runs at 21:55 UTC during November and December
+    - cron: "57 21 * 1,2 *" # Runs at 21:55 UTC during January and February
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
