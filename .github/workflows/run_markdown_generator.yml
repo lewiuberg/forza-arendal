@@ -2,7 +2,7 @@ name: Run Markdown Generator
 
 on:
   schedule:
-    - cron: "30 20 * * *" # Runs every day at 20:30 UTC
+    - cron: "30 20 * * *" # Runs every day at 19:32 UTC
 
 jobs:
   run-script:
