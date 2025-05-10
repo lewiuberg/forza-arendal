@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-05-09 22:06:16
+Tabellene er sist oppdatert: 2025-05-10 22:05:42
 
 ## A-lag Herrer
 
@@ -45,24 +45,62 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
     <tr>
       <td>1</td>
       <td>Notodden</td>
-      <td>5</td>
+      <td>6</td>
       <td>2</td>
       <td>1</td>
       <td>0</td>
       <td>5 - 3</td>
       <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>4 - 2</td>
-      <td>3</td>
       <td>2</td>
       <td>0</td>
-      <td>9 - 5</td>
+      <td>6 - 4</td>
+      <td>3</td>
+      <td>3</td>
+      <td>0</td>
+      <td>11 - 7</td>
       <td>4</td>
-      <td>11</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>2</td>
+      <td>Sotra</td>
+      <td>6</td>
+      <td>2</td>
+      <td>0</td>
+      <td>1</td>
+      <td>11 - 4</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>3 - 1</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>14 - 5</td>
+      <td>9</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Sandviken</td>
+      <td>6</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>9 - 6</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>3 - 6</td>
+      <td>3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>12 - 12</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Brann  2</td>
       <td>5</td>
       <td>2</td>
@@ -81,64 +119,7 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>9</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Sandviken</td>
       <td>5</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7 - 4</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>3 - 6</td>
-      <td>3</td>
-      <td>0</td>
-      <td>2</td>
-      <td>10 - 10</td>
-      <td>0</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Sotra</td>
-      <td>5</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>7 - 4</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-      <td>3 - 1</td>
-      <td>2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>10 - 5</td>
-      <td>5</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>FK Eik Tønsberg 871</td>
-      <td>5</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-      <td>5 - 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>3 - 3</td>
-      <td>2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>8 - 5</td>
-      <td>3</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>6</td>
       <td>Sandnes Ulf</td>
       <td>5</td>
       <td>2</td>
@@ -157,7 +138,7 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>8</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>Jerv</td>
       <td>5</td>
       <td>0</td>
@@ -173,6 +154,25 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>1</td>
       <td>8 - 7</td>
       <td>1</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>FK Eik Tønsberg 871</td>
+      <td>6</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>5 - 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>3 - 7</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>8 - 9</td>
+      <td>-1</td>
       <td>8</td>
     </tr>
     <tr class="row-highlight">
@@ -196,6 +196,25 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
     </tr>
     <tr>
       <td>9</td>
+      <td>Vard Haugesund</td>
+      <td>6</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>3 - 5</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>4 - 4</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>7 - 9</td>
+      <td>-2</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>Brattvåg</td>
       <td>5</td>
       <td>1</td>
@@ -214,7 +233,7 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>6</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>Træff</td>
       <td>5</td>
       <td>1</td>
@@ -233,26 +252,26 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>5</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>Pors</td>
-      <td>5</td>
+      <td>6</td>
       <td>1</td>
       <td>1</td>
-      <td>0</td>
-      <td>3 - 2</td>
+      <td>1</td>
+      <td>4 - 4</td>
       <td>0</td>
       <td>1</td>
       <td>2</td>
       <td>3 - 5</td>
       <td>1</td>
       <td>2</td>
-      <td>2</td>
-      <td>6 - 7</td>
-      <td>-1</td>
+      <td>3</td>
+      <td>7 - 9</td>
+      <td>-2</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>Lysekloster</td>
       <td>5</td>
       <td>1</td>
@@ -268,25 +287,6 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>3</td>
       <td>6 - 8</td>
       <td>-2</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Vard Haugesund</td>
-      <td>5</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>3 - 5</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2 - 3</td>
-      <td>1</td>
-      <td>1</td>
-      <td>3</td>
-      <td>5 - 8</td>
-      <td>-3</td>
       <td>4</td>
     </tr>
     <tr>
@@ -343,6 +343,25 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
   <tbody>
     <tr>
       <td>1</td>
+      <td>Strømsgodset</td>
+      <td>4</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8 - 2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10 - 0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>18 - 2</td>
+      <td>16</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Pors</td>
       <td>3</td>
       <td>2</td>
@@ -360,46 +379,46 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>14</td>
       <td>9</td>
     </tr>
-    <tr>
-      <td>2</td>
-      <td>Strømsgodset</td>
+    <tr class="row-highlight">
       <td>3</td>
+      <td>Arendal</td>
+      <td>4</td>
       <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>3 - 2</td>
+      <td>4 - 0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2 - 1</td>
       <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10 - 0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>13 - 2</td>
-      <td>11</td>
-      <td>9</td>
+      <td>1</td>
+      <td>1</td>
+      <td>6 - 1</td>
+      <td>5</td>
+      <td>7</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Flint</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
       <td>0</td>
-      <td>0</td>
-      <td>3 - 1</td>
+      <td>1</td>
+      <td>3 - 3</td>
       <td>1</td>
       <td>1</td>
       <td>0</td>
       <td>4 - 3</td>
       <td>2</td>
       <td>1</td>
-      <td>0</td>
-      <td>7 - 4</td>
-      <td>3</td>
+      <td>1</td>
+      <td>7 - 6</td>
+      <td>1</td>
       <td>7</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Hønefoss BK 2</td>
       <td>3</td>
       <td>2</td>
@@ -418,7 +437,7 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>6</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>Snøgg</td>
       <td>3</td>
       <td>0</td>
@@ -433,25 +452,6 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
       <td>1</td>
       <td>1</td>
       <td>6 - 3</td>
-      <td>3</td>
-      <td>4</td>
-    </tr>
-    <tr class="row-highlight">
-      <td>6</td>
-      <td>Arendal</td>
-      <td>3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4 - 0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0 - 1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>4 - 1</td>
       <td>3</td>
       <td>4</td>
     </tr>
@@ -553,20 +553,20 @@ Tabellene er sist oppdatert: 2025-05-09 22:06:16
     <tr>
       <td>12</td>
       <td>Konnerud</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td>0</td>
       <td>2</td>
       <td>3 - 8</td>
       <td>0</td>
       <td>0</td>
-      <td>1</td>
-      <td>0 - 4</td>
+      <td>2</td>
+      <td>0 - 9</td>
       <td>0</td>
       <td>0</td>
-      <td>3</td>
-      <td>3 - 12</td>
-      <td>-9</td>
+      <td>4</td>
+      <td>3 - 17</td>
+      <td>-14</td>
       <td>0</td>
     </tr>
   </tbody>
