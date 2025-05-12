@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-05-11 22:05:48
+Tabellene er sist oppdatert: 2025-05-12 22:06:43
 
 ## A-lag Herrer
 
@@ -63,6 +63,25 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
     </tr>
     <tr>
       <td>2</td>
+      <td>Brann  2</td>
+      <td>6</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10 - 7</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>7 - 8</td>
+      <td>4</td>
+      <td>0</td>
+      <td>2</td>
+      <td>17 - 15</td>
+      <td>2</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Sotra</td>
       <td>6</td>
       <td>2</td>
@@ -81,7 +100,7 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
       <td>11</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Sandnes Ulf</td>
       <td>6</td>
       <td>2</td>
@@ -100,7 +119,7 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
       <td>11</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Sandviken</td>
       <td>6</td>
       <td>2</td>
@@ -117,25 +136,6 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
       <td>12 - 12</td>
       <td>0</td>
       <td>10</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Brann  2</td>
-      <td>5</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>6 - 4</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>7 - 8</td>
-      <td>3</td>
-      <td>0</td>
-      <td>2</td>
-      <td>13 - 12</td>
-      <td>1</td>
-      <td>9</td>
     </tr>
     <tr>
       <td>6</td>
@@ -292,20 +292,20 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
     <tr>
       <td>14</td>
       <td>Fløy-Flekkerøy</td>
-      <td>5</td>
+      <td>6</td>
       <td>0</td>
       <td>2</td>
       <td>1</td>
       <td>2 - 4</td>
       <td>0</td>
       <td>0</td>
-      <td>2</td>
-      <td>4 - 11</td>
+      <td>3</td>
+      <td>7 - 15</td>
       <td>0</td>
       <td>2</td>
-      <td>3</td>
-      <td>6 - 15</td>
-      <td>-9</td>
+      <td>4</td>
+      <td>9 - 19</td>
+      <td>-10</td>
       <td>2</td>
     </tr>
   </tbody>
@@ -457,6 +457,25 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
     </tr>
     <tr>
       <td>7</td>
+      <td>Skarphedin</td>
+      <td>4</td>
+      <td>2</td>
+      <td>0</td>
+      <td>1</td>
+      <td>3 - 4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1 - 3</td>
+      <td>2</td>
+      <td>0</td>
+      <td>2</td>
+      <td>4 - 7</td>
+      <td>-3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>Hønefoss BK 2</td>
       <td>4</td>
       <td>2</td>
@@ -473,25 +492,6 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
       <td>5 - 15</td>
       <td>-10</td>
       <td>6</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Skarphedin</td>
-      <td>3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2 - 4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1 - 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>3 - 7</td>
-      <td>-4</td>
-      <td>3</td>
     </tr>
     <tr>
       <td>9</td>
@@ -534,20 +534,20 @@ Tabellene er sist oppdatert: 2025-05-11 22:05:48
     <tr>
       <td>11</td>
       <td>Hei</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td>1</td>
       <td>0</td>
       <td>1 - 1</td>
       <td>0</td>
       <td>0</td>
-      <td>2</td>
-      <td>4 - 7</td>
+      <td>3</td>
+      <td>4 - 8</td>
       <td>0</td>
       <td>1</td>
-      <td>2</td>
-      <td>5 - 8</td>
-      <td>-3</td>
+      <td>3</td>
+      <td>5 - 9</td>
+      <td>-4</td>
       <td>1</td>
     </tr>
     <tr>
