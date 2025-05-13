@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-05-12 22:06:43
+Tabellene er sist oppdatert: 2025-05-13 22:06:53
 
 ## A-lag Herrer
 
@@ -343,6 +343,25 @@ Tabellene er sist oppdatert: 2025-05-12 22:06:43
   <tbody>
     <tr>
       <td>1</td>
+      <td>Pors</td>
+      <td>4</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>13 - 0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7 - 1</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>20 - 1</td>
+      <td>19</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Strømsgodset</td>
       <td>4</td>
       <td>2</td>
@@ -359,25 +378,6 @@ Tabellene er sist oppdatert: 2025-05-12 22:06:43
       <td>18 - 2</td>
       <td>16</td>
       <td>12</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Pors</td>
-      <td>3</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>8 - 0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7 - 1</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>15 - 1</td>
-      <td>14</td>
-      <td>9</td>
     </tr>
     <tr>
       <td>3</td>
@@ -496,20 +496,20 @@ Tabellene er sist oppdatert: 2025-05-12 22:06:43
     <tr>
       <td>9</td>
       <td>Gimletroll 1</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
       <td>0</td>
       <td>1</td>
       <td>4 - 8</td>
       <td>0</td>
       <td>0</td>
-      <td>1</td>
-      <td>2 - 4</td>
+      <td>2</td>
+      <td>2 - 9</td>
       <td>1</td>
       <td>0</td>
-      <td>2</td>
-      <td>6 - 12</td>
-      <td>-6</td>
+      <td>3</td>
+      <td>6 - 17</td>
+      <td>-11</td>
       <td>3</td>
     </tr>
     <tr>
