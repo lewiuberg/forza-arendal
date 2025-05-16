@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-05-15 22:06:50
+Tabellene er sist oppdatert: 2025-05-16 21:50:30
 
 ## A-lag Herrer
 
@@ -140,24 +140,43 @@ Tabellene er sist oppdatert: 2025-05-15 22:06:50
     <tr>
       <td>6</td>
       <td>Jerv</td>
-      <td>5</td>
+      <td>6</td>
       <td>0</td>
+      <td>2</td>
       <td>1</td>
-      <td>1</td>
-      <td>2 - 3</td>
+      <td>3 - 4</td>
       <td>2</td>
       <td>1</td>
       <td>0</td>
       <td>6 - 4</td>
       <td>2</td>
-      <td>2</td>
+      <td>3</td>
       <td>1</td>
+      <td>9 - 8</td>
+      <td>1</td>
+      <td>9</td>
+    </tr>
+    <tr class="row-highlight">
+      <td>7</td>
+      <td>Arendal</td>
+      <td>6</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>5 - 4</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>3 - 3</td>
+      <td>1</td>
+      <td>5</td>
+      <td>0</td>
       <td>8 - 7</td>
       <td>1</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>Træff</td>
       <td>6</td>
       <td>2</td>
@@ -176,7 +195,7 @@ Tabellene er sist oppdatert: 2025-05-15 22:06:50
       <td>8</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>FK Eik Tønsberg 871</td>
       <td>6</td>
       <td>1</td>
@@ -193,25 +212,6 @@ Tabellene er sist oppdatert: 2025-05-15 22:06:50
       <td>8 - 9</td>
       <td>-1</td>
       <td>8</td>
-    </tr>
-    <tr class="row-highlight">
-      <td>9</td>
-      <td>Arendal</td>
-      <td>5</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-      <td>5 - 4</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>2 - 2</td>
-      <td>1</td>
-      <td>4</td>
-      <td>0</td>
-      <td>7 - 6</td>
-      <td>1</td>
-      <td>7</td>
     </tr>
     <tr>
       <td>10</td>
