@@ -60,7 +60,8 @@ plugins:
       #   "full"
       # media_type: print
       # enabled_if_env: ENABLE_PDF_EXPORT
-  - blog
+  - blog:
+      authors: true
   - macros:
       enabled_if_env: ENABLE_PDF_EXPORT
 markdown_extensions:
