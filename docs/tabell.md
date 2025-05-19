@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-05-18 22:06:15
+Tabellene er sist oppdatert: 2025-05-19 22:06:40
 
 ## A-lag Herrer
 
@@ -381,6 +381,25 @@ Tabellene er sist oppdatert: 2025-05-18 22:06:15
     </tr>
     <tr>
       <td>3</td>
+      <td>Randesund</td>
+      <td>5</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>15 - 2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0 - 6</td>
+      <td>3</td>
+      <td>0</td>
+      <td>2</td>
+      <td>15 - 8</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Skarphedin</td>
       <td>5</td>
       <td>2</td>
@@ -399,7 +418,7 @@ Tabellene er sist oppdatert: 2025-05-18 22:06:15
       <td>9</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Snøgg</td>
       <td>4</td>
       <td>1</td>
@@ -418,7 +437,7 @@ Tabellene er sist oppdatert: 2025-05-18 22:06:15
       <td>7</td>
     </tr>
     <tr class="row-highlight">
-      <td>5</td>
+      <td>6</td>
       <td>Arendal</td>
       <td>5</td>
       <td>1</td>
@@ -437,7 +456,7 @@ Tabellene er sist oppdatert: 2025-05-18 22:06:15
       <td>7</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Flint</td>
       <td>4</td>
       <td>1</td>
@@ -454,25 +473,6 @@ Tabellene er sist oppdatert: 2025-05-18 22:06:15
       <td>7 - 6</td>
       <td>1</td>
       <td>7</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Randesund</td>
-      <td>4</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10 - 1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0 - 6</td>
-      <td>2</td>
-      <td>0</td>
-      <td>2</td>
-      <td>10 - 7</td>
-      <td>3</td>
-      <td>6</td>
     </tr>
     <tr>
       <td>8</td>
@@ -495,21 +495,21 @@ Tabellene er sist oppdatert: 2025-05-18 22:06:15
     </tr>
     <tr>
       <td>9</td>
-      <td>Fossum /Storm 1</td>
-      <td>4</td>
+      <td>Konnerud</td>
+      <td>5</td>
       <td>1</td>
       <td>0</td>
-      <td>1</td>
-      <td>5 - 9</td>
+      <td>2</td>
+      <td>6 - 9</td>
       <td>0</td>
       <td>0</td>
       <td>2</td>
-      <td>2 - 11</td>
+      <td>0 - 9</td>
       <td>1</td>
       <td>0</td>
-      <td>3</td>
-      <td>7 - 20</td>
-      <td>-13</td>
+      <td>4</td>
+      <td>6 - 18</td>
+      <td>-12</td>
       <td>3</td>
     </tr>
     <tr>
@@ -533,41 +533,41 @@ Tabellene er sist oppdatert: 2025-05-18 22:06:15
     </tr>
     <tr>
       <td>11</td>
-      <td>Hei</td>
+      <td>Fossum /Storm 1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>5 - 9</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>3 - 16</td>
+      <td>1</td>
+      <td>0</td>
       <td>4</td>
+      <td>8 - 25</td>
+      <td>-17</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Hei</td>
+      <td>5</td>
       <td>0</td>
       <td>1</td>
       <td>0</td>
       <td>1 - 1</td>
       <td>0</td>
       <td>0</td>
-      <td>3</td>
-      <td>4 - 8</td>
+      <td>4</td>
+      <td>5 - 11</td>
       <td>0</td>
       <td>1</td>
-      <td>3</td>
-      <td>5 - 9</td>
-      <td>-4</td>
+      <td>4</td>
+      <td>6 - 12</td>
+      <td>-6</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Konnerud</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>3 - 8</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0 - 9</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>3 - 17</td>
-      <td>-14</td>
-      <td>0</td>
     </tr>
   </tbody>
 </table>
