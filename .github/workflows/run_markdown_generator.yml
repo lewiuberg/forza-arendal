@@ -30,6 +30,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/assets/tables/*
           git commit -m "Update tables [skip ci]" || echo "No changes to commit"
+          git pull --rebase
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
