@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-05-28 22:06:47
+Tabellene er sist oppdatert: 2025-05-29 22:06:53
 
 ## A-lag Herrer
 
@@ -382,21 +382,21 @@ Tabellene er sist oppdatert: 2025-05-28 22:06:47
     <tr>
       <td>3</td>
       <td>Hønefoss BK 2</td>
-      <td>6</td>
-      <td>3</td>
+      <td>7</td>
+      <td>4</td>
       <td>0</td>
       <td>0</td>
-      <td>5 - 2</td>
+      <td>9 - 2</td>
       <td>1</td>
       <td>0</td>
       <td>2</td>
       <td>5 - 16</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td>2</td>
-      <td>10 - 18</td>
-      <td>-8</td>
-      <td>12</td>
+      <td>14 - 18</td>
+      <td>-4</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>4</td>
@@ -553,20 +553,20 @@ Tabellene er sist oppdatert: 2025-05-28 22:06:47
     <tr>
       <td>12</td>
       <td>Hei</td>
-      <td>6</td>
+      <td>7</td>
       <td>0</td>
       <td>1</td>
       <td>1</td>
       <td>1 - 10</td>
       <td>0</td>
       <td>0</td>
-      <td>4</td>
-      <td>5 - 11</td>
+      <td>5</td>
+      <td>5 - 15</td>
       <td>0</td>
       <td>1</td>
-      <td>5</td>
-      <td>6 - 21</td>
-      <td>-15</td>
+      <td>6</td>
+      <td>6 - 25</td>
+      <td>-19</td>
       <td>1</td>
     </tr>
   </tbody>
