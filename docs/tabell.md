@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-06-02 22:06:52
+Tabellene er sist oppdatert: 2025-06-05 22:06:06
 
 ## A-lag Herrer
 
@@ -458,20 +458,20 @@ Tabellene er sist oppdatert: 2025-06-02 22:06:52
     <tr>
       <td>2</td>
       <td>Pors</td>
-      <td>6</td>
+      <td>7</td>
       <td>5</td>
       <td>0</td>
-      <td>0</td>
-      <td>18 - 2</td>
+      <td>1</td>
+      <td>19 - 4</td>
       <td>1</td>
       <td>0</td>
       <td>0</td>
       <td>7 - 1</td>
       <td>6</td>
       <td>0</td>
-      <td>0</td>
-      <td>25 - 3</td>
-      <td>22</td>
+      <td>1</td>
+      <td>26 - 5</td>
+      <td>21</td>
       <td>18</td>
     </tr>
     <tr>
@@ -534,21 +534,21 @@ Tabellene er sist oppdatert: 2025-06-02 22:06:52
     <tr>
       <td>6</td>
       <td>Flint</td>
-      <td>6</td>
+      <td>7</td>
       <td>2</td>
       <td>0</td>
       <td>1</td>
       <td>7 - 3</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
-      <td>1</td>
-      <td>4 - 4</td>
-      <td>3</td>
+      <td>6 - 5</td>
+      <td>4</td>
       <td>1</td>
       <td>2</td>
-      <td>11 - 7</td>
-      <td>4</td>
-      <td>10</td>
+      <td>13 - 8</td>
+      <td>5</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>7</td>
