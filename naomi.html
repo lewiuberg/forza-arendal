@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Gratulerer med 18års dagen, Naomi!</title>
+    <style>
+      body {
+        /* Gradient background inspired by the image: deep blue to purple to pink/orange */
+        background: linear-gradient(
+          135deg,
+          #1a2340 0%,
+          #5e3a87 40%,
+          #e85d8e 80%,
+          #d1a159 100%
+        );
+        font-family: "Segoe UI", Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+        overflow: hidden;
+      }
+      .card {
+        background: rgba(255, 255, 255, 0.92);
+        border-radius: 18px;
+        box-shadow: 0 4px 24px rgba(26, 35, 64, 0.15);
+        padding: 2.5rem 2rem 2rem 2rem;
+        max-width: 400px;
+        text-align: center;
+        position: relative;
+        z-index: 1;
+        transition: transform 0.2s, box-shadow 0.2s;
+        cursor: pointer;
+        border: 2px solid #e85d8e;
+      }
+      .card:hover {
+        transform: scale(1.025) rotate(-1deg);
+        box-shadow: 0 8px 32px rgba(232, 93, 142, 0.18);
+      }
+      .card h1 {
+        font-size: 2.2rem;
+        color: #5e3a87;
+        margin-bottom: 0.5rem;
+        letter-spacing: 1px;
+        text-shadow: 0 2px 8px #fff7, 0 1px 0 #fff;
+        font-family: "Segoe Script", "Comic Sans MS", cursive, sans-serif;
+      }
+      .card .emoji {
+        font-size: 2.7rem;
+        margin-bottom: 0.5rem;
+        animation: bounce 1.5s infinite alternate;
+      }
+      @keyframes bounce {
+        0% {
+          transform: translateY(0);
+        }
+        100% {
+          transform: translateY(-8px);
+        }
+      }
+      .card .gift {
+        font-size: 1.2rem;
+        margin: 1.5rem 0 1rem 0;
+        color: #e85d8e;
+        font-weight: bold;
+      }
+      .card .concert {
+        font-size: 1.1rem;
+        font-weight: bold;
+        color: #1a2340;
+        margin-bottom: 0.5rem;
+      }
+      .card .venue {
+        color: #fbb040;
+        margin-bottom: 1.5rem;
+        font-weight: bold;
+      }
+      .card .from {
+        margin-top: 2rem;
+        font-size: 1rem;
+        color: #5e3a87;
+        font-weight: bold;
+      }
+      /* Confetti styles */
+      .confetti {
+        pointer-events: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        z-index: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Confetti Canvas -->
+    <canvas class="confetti"></canvas>
+    <a
+      href="https://unityarena.no/arrangementer/benson-boone/"
+      target="_blank"
+      style="text-decoration: none"
+    >
+      <div class="card">
+        <div class="emoji">🎉🎂🚙🎶🍷</div>
+        <h1>Gratulerer med 18års dagen, Naomi!</h1>
+        <div class="gift">Du har fått en billett til:</div>
+        <div class="concert">Benson Boone – American Heart Tour</div>
+        <div class="venue">
+          <span>Unity Arena Fornebu</span>
+        </div>
+        <div class="from">
+          Tante, Onkel, Mamma, Pappa og Pia blir med 💪 <br /><br />
+          Klem fra Tante Karen Marie og Onkel Lewi 💖
+        </div>
+      </div>
+    </a>
+    <script>
+      // Simple confetti animation with palette from the image
+      const canvas = document.querySelector(".confetti");
+      const ctx = canvas.getContext("2d");
+      let confetti = [];
+      function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+      }
+      window.addEventListener("resize", resizeCanvas);
+      resizeCanvas();
+
+      function randomColor() {
+        // Palette: deep blue, purple, pink, orange, white
+        const colors = [
+          "#1a2340", // deep blue
+          "#5e3a87", // purple
+          "#e85d8e", // pink
+          "#fbb040", // orange
+          "#ffffff", // white
+        ];
+        return colors[Math.floor(Math.random() * colors.length)];
+      }
+      function createConfettiPiece() {
+        return {
+          x: Math.random() * canvas.width,
+          y: -10,
+          r: 6 + Math.random() * 6,
+          d: Math.random() * 100,
+          color: randomColor(),
+          tilt: Math.random() * 10 - 5,
+          tiltAngle: 0,
+          tiltAngleIncremental: Math.random() * 0.07 + 0.05,
+        };
+      }
+      function initConfetti() {
+        confetti = [];
+        for (let i = 0; i < 60; i++) {
+          confetti.push(createConfettiPiece());
+        }
+      }
+      function drawConfetti() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        confetti.forEach((c) => {
+          ctx.beginPath();
+          ctx.lineWidth = c.r;
+          ctx.strokeStyle = c.color;
+          ctx.moveTo(c.x + c.tilt + c.r / 3, c.y);
+          ctx.lineTo(c.x + c.tilt, c.y + c.tilt + c.r / 3);
+          ctx.stroke();
+        });
+        updateConfetti();
+      }
+      function updateConfetti() {
+        confetti.forEach((c) => {
+          c.y += (Math.cos(c.d) + 2 + c.r / 2) / 2;
+          c.x += Math.sin(0.01 * c.d);
+          c.tiltAngle += c.tiltAngleIncremental;
+          c.tilt = Math.sin(c.tiltAngle) * 10;
+          if (c.y > canvas.height + 20) {
+            c.x = Math.random() * canvas.width;
+            c.y = -10;
+            c.tilt = Math.random() * 10 - 5;
+          }
+        });
+      }
+      function animateConfetti() {
+        drawConfetti();
+        requestAnimationFrame(animateConfetti);
+      }
+      initConfetti();
+      animateConfetti();
+    </script>
+  </body>
+</html>
