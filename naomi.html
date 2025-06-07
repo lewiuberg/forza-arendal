@@ -4,14 +4,22 @@
     <meta charset="UTF-8" />
     <title>Gratulerer med 18års dagen, Naomi!</title>
     <style>
+      :root {
+        --color-navy: #040e5d;
+        --color-blue: #0833a5;
+        --color-magenta: #840207;
+        --color-red: #c60601;
+        --color-brownred: #520201;
+      }
       body {
-        /* Gradient background inspired by the image: deep blue to purple to pink/orange */
+        /* Gradient background inspired by the image: deep navy, purple, magenta, orange-gold */
         background: linear-gradient(
           135deg,
-          #1a2340 0%,
-          #5e3a87 40%,
-          #e85d8e 80%,
-          #d1a159 100%
+          #040e5d 0%,
+          #0833a5 35%,
+          #840207 65%,
+          #c60601 85%,
+          #520201 100%
         );
         font-family: "Segoe UI", Arial, sans-serif;
         display: flex;
@@ -22,65 +30,136 @@
         overflow: hidden;
       }
       .card {
-        background: rgba(255, 255, 255, 0.92);
-        border-radius: 18px;
-        box-shadow: 0 4px 24px rgba(26, 35, 64, 0.15);
-        padding: 2.5rem 2rem 2rem 2rem;
-        max-width: 400px;
+        background: linear-gradient(
+          135deg,
+          #bfc3c7 0%,
+          #a7aaaf 30%,
+          #888b90 60%,
+          #bfc3c7 100%
+        );
+        border-radius: 22px;
+        border: 3px solid #888b90;
+        box-shadow: 0 2px 12px 0 rgba(60, 60, 60, 0.13),
+          inset 0 2px 16px 0 rgba(80, 80, 80, 0.22);
+        padding: 2.8rem 2.2rem 2.2rem 2.2rem;
+        width: 60vw;
+        max-width: 600px;
+        min-width: 220px;
         text-align: center;
         position: relative;
         z-index: 1;
-        transition: transform 0.2s, box-shadow 0.2s;
+        transition: transform 0.2s, border-color 0.2s, background 0.2s;
         cursor: pointer;
-        border: 2px solid #e85d8e;
+        /* Dark silver badge look */
+        opacity: 0;
+        transform: translateY(-60px);
+        pointer-events: none;
+        transition: opacity 0.5s, transform 0.5s;
       }
-      .card:hover {
-        transform: scale(1.025) rotate(-1deg);
-        box-shadow: 0 8px 32px rgba(232, 93, 142, 0.18);
+      .card.visible {
+        opacity: 0.9;
+        transform: translateY(0);
+        pointer-events: auto;
       }
-      .card h1 {
-        font-size: 2.2rem;
-        color: #5e3a87;
-        margin-bottom: 0.5rem;
-        letter-spacing: 1px;
-        text-shadow: 0 2px 8px #fff7, 0 1px 0 #fff;
-        font-family: "Segoe Script", "Comic Sans MS", cursive, sans-serif;
+      .card.spin {
+        animation: spin360 0.5s cubic-bezier(0.4, 0.2, 0.2, 1);
       }
-      .card .emoji {
-        font-size: 2.7rem;
-        margin-bottom: 0.5rem;
-        animation: bounce 1.5s infinite alternate;
-      }
-      @keyframes bounce {
+      @keyframes spin360 {
         0% {
-          transform: translateY(0);
+          transform: rotate(0deg) scale(1.025);
         }
         100% {
-          transform: translateY(-8px);
+          transform: rotate(360deg) scale(1.025);
         }
+      }
+      .card:hover {
+        transform: scale(1.025);
+        border-color: #75787c;
+        background: linear-gradient(
+          135deg,
+          #d3d5d8 0%,
+          #b0b3b7 40%,
+          #8e9196 80%,
+          #d3d5d8 100%
+        );
+        box-shadow: 0 4px 20px 0 rgba(60, 60, 60, 0.18),
+          inset 0 3px 20px 0 rgba(80, 80, 80, 0.28);
+      }
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.08);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+      .card h1 {
+        font-size: 2.3rem;
+        color: #000;
+        margin-bottom: 0.7rem;
+        letter-spacing: 1.5px;
+        font-family: "Segoe UI", Arial, sans-serif;
+        font-weight: 800;
+        /* No text-shadow */
+      }
+      .card .emoji {
+        font-size: 2.2rem;
+        margin-bottom: 0.7rem;
+        animation: bounce 1.5s infinite alternate;
+        color: #000;
       }
       .card .gift {
         font-size: 1.2rem;
         margin: 1.5rem 0 1rem 0;
-        color: #e85d8e;
         font-weight: bold;
+        font-style: italic;
+        color: #000;
+        letter-spacing: 0.5px;
       }
       .card .concert {
-        font-size: 1.1rem;
+        font-size: 1.25rem;
         font-weight: bold;
-        color: #1a2340;
+        color: #000;
         margin-bottom: 0.5rem;
+        letter-spacing: 0.5px;
       }
       .card .venue {
-        color: #fbb040;
+        font-size: 1.1rem;
+        font-style: italic;
+        font-weight: 600;
+        color: #000;
         margin-bottom: 1.5rem;
-        font-weight: bold;
+        letter-spacing: 0.5px;
       }
       .card .from {
         margin-top: 2rem;
         font-size: 1rem;
-        color: #5e3a87;
-        font-weight: bold;
+        font-weight: 600;
+        font-style: italic;
+        color: #000;
+        letter-spacing: 0.2px;
+      }
+      /* Responsive adjustments for very small screens */
+      @media (max-width: 600px) {
+        .card {
+          width: 95vw;
+          padding: 1.2rem 0.5rem 1rem 0.5rem;
+        }
+        .card h1 {
+          font-size: 1.5rem;
+        }
+        .card .emoji {
+          font-size: 1.5rem;
+        }
+        .card .gift,
+        .card .concert,
+        .card .venue,
+        .card .from {
+          font-size: 0.95rem;
+        }
       }
       /* Confetti styles */
       .confetti {
@@ -101,14 +180,22 @@
       href="https://unityarena.no/arrangementer/benson-boone/"
       target="_blank"
       style="text-decoration: none"
+      id="badge-link"
     >
-      <div class="card">
+      <div class="card" id="badge-card">
         <div class="emoji">🎉🎂🚙🎶🍷</div>
         <h1>Gratulerer med 18års dagen, Naomi!</h1>
-        <div class="gift">Du har fått en billett til:</div>
-        <div class="concert">Benson Boone – American Heart Tour</div>
+        <div class="gift">
+          <b><i>Du har fått en billett til:</i></b>
+        </div>
+        <div class="concert">
+          <b
+            >Benson Boone –
+            <span style="font-style: italic">American Heart Tour</span></b
+          >
+        </div>
         <div class="venue">
-          <span>Unity Arena Fornebu</span>
+          <span><i>Unity Arena Fornebu</i></span>
         </div>
         <div class="from">
           Tante, Onkel, Mamma, Pappa og Pia blir med 💪 <br /><br />
@@ -129,14 +216,8 @@
       resizeCanvas();
 
       function randomColor() {
-        // Palette: deep blue, purple, pink, orange, white
-        const colors = [
-          "#1a2340", // deep blue
-          "#5e3a87", // purple
-          "#e85d8e", // pink
-          "#fbb040", // orange
-          "#ffffff", // white
-        ];
+        // Only use the provided palette
+        const colors = ["#040e5d", "#0833a5", "#840207", "#c60601", "#520201"];
         return colors[Math.floor(Math.random() * colors.length)];
       }
       function createConfettiPiece() {
@@ -188,6 +269,31 @@
       }
       initConfetti();
       animateConfetti();
+
+      // Badge spin and delayed navigation
+      const card = document.getElementById("badge-card");
+      const link = document.getElementById("badge-link");
+      let spinning = false;
+      card.addEventListener("click", function (e) {
+        if (spinning) return;
+        e.preventDefault();
+        spinning = true;
+        card.classList.add("spin");
+        setTimeout(() => {
+          card.classList.remove("spin");
+          setTimeout(() => {
+            window.location.href = link.href;
+            spinning = false;
+          }, 500);
+        }, 500);
+      });
+
+      // Show card after 1 second with slide-in from top
+      window.addEventListener("DOMContentLoaded", function () {
+        setTimeout(function () {
+          document.getElementById("badge-card").classList.add("visible");
+        }, 1000);
+      });
     </script>
   </body>
 </html>
