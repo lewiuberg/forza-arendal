@@ -1,4 +1,5 @@
 {
+  "cSpell.ignorePaths": ["docs/blog/posts"],
   // "cSpell.enabled": false,
   // -------------------------------- PYTHON ---------------------------------
   "python.terminal.activateEnvironment": true,
