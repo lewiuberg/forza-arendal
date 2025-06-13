@@ -1,300 +1,290 @@
 <!DOCTYPE html>
 <html lang="no">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Gratulerer med 18års dagen, Naomi!</title>
-    <style>
-      :root {
-        --color-navy: #040e5d;
-        --color-blue: #0833a5;
-        --color-magenta: #840207;
-        --color-red: #c60601;
-        --color-brownred: #520201;
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gratulerer med dagen!</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      /* Updated gradient with specified colors */
+      background: linear-gradient(135deg, #040e5d 0%, #0833a5 25%, #840207 50%, #c60601 75%, #520201 100%);
+      font-family: 'Segoe UI', 'Arial', sans-serif;
+      color: #000;
+      min-height: 100vh;
+      width: 100vw;
+      box-sizing: border-box;
+      overflow-x: hidden;
+    }
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      position: relative;
+    }
+    .confetti {
+      pointer-events: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 10;
+      overflow: hidden;
+    }
+    .card {
+      /* Frosted glass effect */
+      background: rgba(255, 255, 255, 0.18);
+      border-radius: 18px;
+      box-shadow: 0 2px 24px 0 rgba(0,0,0,0.18);
+      padding: 24px 12px;
+      max-width: 95vw;
+      width: 350px;
+      margin: 0 auto;
+      text-align: center;
+      position: relative;
+      z-index: 20;
+      color: #000;
+      border: 1.5px solid rgba(255,255,255,0.35);
+      backdrop-filter: blur(18px) saturate(180%);
+      -webkit-backdrop-filter: blur(18px) saturate(180%);
+      /* Optional: subtle white overlay for extra frost */
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+      opacity: 0;
+      animation: fadeInCard 1.2s ease 0.2s forwards;
+    }
+    @keyframes fadeInCard {
+      from { opacity: 0; transform: translateY(24px);}
+      to   { opacity: 1; transform: translateY(0);}
+    }
+    h1 {
+      color: #000;
+      font-size: 2em;
+      margin: 0.2em 0 0.5em 0;
+    }
+    .balloons {
+      font-size: 1.7em;
+      margin-bottom: 0.3em;
+      color: #000;
+    }
+    .concert {
+      margin: 1.2em 0 0.8em 0;
+      font-size: 1.1em;
+      color: #000;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    .signature {
+      margin-top: 1.5em;
+      font-size: 1em;
+      color: #000;
+      line-height: 1.4;
+    }
+    @media (max-width: 400px) {
+      .card {
+        width: 98vw;
+        padding: 12px 2vw;
       }
-      body {
-        /* Gradient background inspired by the image: deep navy, purple, magenta, orange-gold */
-        background: linear-gradient(
-          135deg,
-          #040e5d 0%,
-          #0833a5 35%,
-          #840207 65%,
-          #c60601 85%,
-          #520201 100%
+      h1 {
+        font-size: 1.3em;
+      }
+      .concert {
+        font-size: 1em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <canvas class="confetti"></canvas>
+  <div class="card" id="birthday-card">
+    <div class="balloons">🎉🎂🚙🍷</div>
+    <h1>Gratulerer med dagen, Naomi!</h1>
+    <p>
+      Vi har en overraskelse til deg!<br>
+      Mandag 17. november skal vi feire deg på konseret med
+      <div class="concert">
+        Benson Boone – American Heart Tour<br>
+        @<br>
+        Unity Arena Fornebu
+      </div>
+    </p>
+    <p>
+      Tante, Onkel, Mamma, Pappa og Pia blir med deg på denne konserten!<br>
+    </p>
+    <div class="signature">
+      Stor bursdagsklem fra<br>
+      Tante Karen Marie og Onkel Leven 🎶🫶
+    </div>
+    <svg id="cracks" style="display:none;position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:100;" viewBox="0 0 350 400">
+      <!-- More jagged, natural-looking cracks -->
+      <polyline points="175,0 180,40 170,80 185,120 175,160 180,200 170,240 185,280 175,320 180,360 175,400" stroke="#222" stroke-width="2" fill="none"/>
+      <polyline points="0,80 40,100 80,120 120,140 160,160 200,180 240,200 280,220 320,240 350,320" stroke="#222" stroke-width="2" fill="none"/>
+      <polyline points="350,80 310,110 270,140 230,170 190,200 150,230 110,260 70,290 30,320 0,320" stroke="#222" stroke-width="2" fill="none"/>
+      <polyline points="60,0 90,60 120,120 150,180 180,240 210,300 240,360 290,400" stroke="#222" stroke-width="1.5" fill="none"/>
+      <polyline points="290,0 260,60 230,120 200,180 170,240 140,300 110,360 60,400" stroke="#222" stroke-width="1.5" fill="none"/>
+      <polyline points="0,200 40,210 80,220 120,230 160,240 200,250 240,260 280,270 320,280 350,200" stroke="#222" stroke-width="1.5" fill="none"/>
+      <polyline points="90,100 110,130 130,160 150,190 170,220 190,250 210,280 230,310 260,300" stroke="#222" stroke-width="1" fill="none"/>
+      <polyline points="260,100 240,130 220,160 200,190 180,220 160,250 140,280 120,310 90,300" stroke="#222" stroke-width="1" fill="none"/>
+    </svg>
+  </div>
+  <!-- Arrow hint, initially hidden -->
+  <div id="arrow-hint" style="display:none;position:fixed;z-index:200;pointer-events:none;left:0;right:0;top:80px;text-align:center;">
+    <div style="color:#fff;font-size:2.1em;font-weight:bold;text-shadow:0 2px 8px #222;margin-bottom:2px;">Klikk her</div>
+    <svg id="arrow-svg" width="40" height="48" style="display:block;margin:0 auto;">
+      <!-- Simple down arrow, tip at (20,44) -->
+      <path d="M20,5 Q20,30 20,44" stroke="#fff" stroke-width="8" fill="none"/>
+      <polygon points="10,39 20,47 30,39" fill="#fff"/>
+    </svg>
+  </div>
+  <script>
+    // Simple confetti animation
+    const colors = ['#040e5d', '#0833a5', '#840207', '#c60601', '#520201', '#fffbe7', '#ff4e50', '#2d8cf0'];
+    const canvas = document.querySelector('.confetti');
+    const ctx = canvas.getContext('2d');
+    let confetti = [];
+
+    function resizeCanvas() {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    }
+    window.addEventListener('resize', resizeCanvas);
+    resizeCanvas();
+
+    function randomBetween(a, b) {
+      return a + Math.random() * (b - a);
+    }
+
+    function createConfettiPiece() {
+      return {
+        x: randomBetween(0, canvas.width),
+        y: randomBetween(-canvas.height, 0),
+        r: randomBetween(4, 8),
+        d: randomBetween(2, 6),
+        color: colors[Math.floor(Math.random() * colors.length)],
+        tilt: randomBetween(-10, 10),
+        tiltAngle: randomBetween(0, Math.PI * 2),
+        tiltAngleIncremental: randomBetween(0.05, 0.12)
+      };
+    }
+
+    function initConfetti() {
+      confetti = [];
+      let count = Math.floor(window.innerWidth / 8);
+      for (let i = 0; i < count; i++) {
+        confetti.push(createConfettiPiece());
+      }
+    }
+    initConfetti();
+    window.addEventListener('resize', initConfetti);
+
+    function drawConfetti() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      for (let i = 0; i < confetti.length; i++) {
+        let c = confetti[i];
+        ctx.beginPath();
+        ctx.ellipse(
+          c.x + c.tilt,
+          c.y,
+          c.r,
+          c.r * 0.6,
+          c.tiltAngle,
+          0,
+          2 * Math.PI
         );
-        font-family: "Segoe UI", Arial, sans-serif;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        min-height: 100vh;
-        margin: 0;
+        ctx.fillStyle = c.color;
+        ctx.fill();
+      }
+      updateConfetti();
+      requestAnimationFrame(drawConfetti);
+    }
+
+    function updateConfetti() {
+      for (let i = 0; i < confetti.length; i++) {
+        let c = confetti[i];
+        c.y += c.d;
+        c.tiltAngle += c.tiltAngleIncremental;
+        c.tilt = Math.sin(c.tiltAngle) * 12;
+        if (c.y > canvas.height + 20) {
+          // Reset to top
+          confetti[i] = createConfettiPiece();
+          confetti[i].y = -10;
+        }
+      }
+    }
+
+    drawConfetti();
+
+    // Glass crack and shatter effect on card click, then redirect
+    const card = document.getElementById("birthday-card");
+    const cracks = document.getElementById("cracks");
+    let shattering = false;
+
+    card.addEventListener("click", function () {
+      if (shattering) return;
+      shattering = true;
+
+      // Show cracks SVG overlay
+      cracks.style.display = "block";
+      cracks.style.opacity = "0";
+      cracks.style.transition = "opacity 0.15s";
+      setTimeout(() => {
+        cracks.style.opacity = "1";
+      }, 10);
+
+      // Shatter animation: split card into fragments
+      setTimeout(() => {
+        card.classList.add("shatter");
+        setTimeout(() => {
+          window.location.href = "https://unityarena.no/arrangementer/benson-boone/";
+        }, 700);
+      }, 350);
+    });
+
+    // Inject shatter CSS
+    const style = document.createElement('style');
+    style.innerHTML = `
+      .card {
         overflow: hidden;
       }
-      .card {
-        background: linear-gradient(
-          135deg,
-          #bfc3c7 0%,
-          #a7aaaf 30%,
-          #888b90 60%,
-          #bfc3c7 100%
-        );
-        border-radius: 22px;
-        border: 3px solid #888b90;
-        box-shadow: 0 2px 12px 0 rgba(60, 60, 60, 0.13),
-          inset 0 2px 16px 0 rgba(80, 80, 80, 0.22);
-        padding: 2.8rem 2.2rem 2.2rem 2.2rem;
-        width: 60vw;
-        max-width: 600px;
-        min-width: 220px;
-        text-align: center;
-        position: relative;
-        z-index: 1;
-        transition: transform 0.2s, border-color 0.2s, background 0.2s;
-        cursor: pointer;
-        /* Dark silver badge look */
+      .card.shatter {
+        animation: shatterCard 0.7s cubic-bezier(.7,-0.2,.7,1.5) forwards;
+      }
+      @keyframes shatterCard {
+        0% { opacity: 1; }
+        20% { transform: scale(1.01) rotate(-1deg);}
+        40% { transform: scale(1.03) rotate(1deg);}
+        60% { }
+        80% { opacity: 1; }
+        100% {
+          opacity: 0;
+          filter: blur(8px) brightness(1.2);
+          transform: scale(1.12) rotate(8deg) translateY(40px);
+        }
+      }
+      #cracks {
+        pointer-events: none;
         opacity: 0;
-        transform: translateY(-60px);
-        pointer-events: none;
-        transition: opacity 0.5s, transform 0.5s;
+        transition: opacity 0.15s;
       }
-      .card.visible {
+      .card.shatter #cracks {
         opacity: 1;
-        transform: translateY(0);
-        pointer-events: auto;
       }
-      .card.spin {
-        animation: spin360 0.5s cubic-bezier(0.4, 0.2, 0.2, 1);
-      }
-      @keyframes spin360 {
-        0% {
-          transform: rotate(0deg) scale(1.025);
-        }
-        100% {
-          transform: rotate(360deg) scale(1.025);
-        }
-      }
-      .card:hover {
-        transform: scale(1.025);
-        border-color: #75787c;
-        background: linear-gradient(
-          135deg,
-          #d3d5d8 0%,
-          #b0b3b7 40%,
-          #8e9196 80%,
-          #d3d5d8 100%
-        );
-        box-shadow: 0 4px 20px 0 rgba(60, 60, 60, 0.18),
-          inset 0 3px 20px 0 rgba(80, 80, 80, 0.28);
-      }
-      @keyframes pulse {
-        0% {
-          transform: scale(1);
-        }
-        50% {
-          transform: scale(1.08);
-        }
-        100% {
-          transform: scale(1);
-        }
-      }
-      .card h1 {
-        font-size: 2.3rem;
-        color: #000;
-        margin-bottom: 0.7rem;
-        letter-spacing: 1.5px;
-        font-family: "Segoe UI", Arial, sans-serif;
-        font-weight: 800;
-        /* No text-shadow */
-      }
-      .card .emoji {
-        font-size: 2.2rem;
-        margin-bottom: 0.7rem;
-        animation: bounce 1.5s infinite alternate;
-        color: #000;
-      }
-      .card .gift {
-        font-size: 1.2rem;
-        margin: 1.5rem 0 1rem 0;
-        font-weight: bold;
-        font-style: italic;
-        color: #000;
-        letter-spacing: 0.5px;
-      }
-      .card .concert {
-        font-size: 1.25rem;
-        font-weight: bold;
-        color: #000;
-        margin-bottom: 0.5rem;
-        letter-spacing: 0.5px;
-      }
-      .card .venue {
-        font-size: 1.1rem;
-        font-style: italic;
-        font-weight: 600;
-        color: #000;
-        margin-bottom: 1.5rem;
-        letter-spacing: 0.5px;
-      }
-      .card .from {
-        margin-top: 2rem;
-        font-size: 1rem;
-        font-weight: 600;
-        font-style: italic;
-        color: #000;
-        letter-spacing: 0.2px;
-      }
-      /* Responsive adjustments for very small screens */
-      @media (max-width: 600px) {
-        .card {
-          width: 95vw;
-          padding: 1.2rem 0.5rem 1rem 0.5rem;
-        }
-        .card h1 {
-          font-size: 1.5rem;
-        }
-        .card .emoji {
-          font-size: 1.5rem;
-        }
-        .card .gift,
-        .card .concert,
-        .card .venue,
-        .card .from {
-          font-size: 0.95rem;
-        }
-      }
-      /* Confetti styles */
-      .confetti {
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100vw;
-        height: 100vh;
-        z-index: 0;
-      }
-    </style>
-  </head>
-  <body>
-    <!-- Confetti Canvas -->
-    <canvas class="confetti"></canvas>
-    <a
-      href="https://unityarena.no/arrangementer/benson-boone/"
-      target="_blank"
-      style="text-decoration: none"
-      id="badge-link"
-    >
-      <div class="card" id="badge-card">
-        <div class="emoji">🎉🎂🚙🎶🍷</div>
-        <h1>Gratulerer med dagen!<br />Naomi 18år!</h1>
-        <div class="gift">
-          <b><i>Du har fått en billett til:</i></b>
-        </div>
-        <div class="concert">
-          <b
-            >Benson Boone <br />
-            <span style="font-style: italic">American Heart Tour</span></b
-          >
-        </div>
-        <div class="venue">
-          <span><i>Unity Arena Fornebu</i></span>
-        </div>
-        <div class="from">
-          Tante & Onkel<br />Mamma & Pappa<br />
-          Og ikke minst Pia<br />blir med 💪 <br /><br />
-          Stor klem fra<br />Tante og Onkel 💖
-        </div>
-      </div>
-    </a>
-    <script>
-      // Simple confetti animation with palette from the image
-      const canvas = document.querySelector(".confetti");
-      const ctx = canvas.getContext("2d");
-      let confetti = [];
-      function resizeCanvas() {
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
-      }
-      window.addEventListener("resize", resizeCanvas);
-      resizeCanvas();
+    `;
+    document.head.appendChild(style);
 
-      function randomColor() {
-        // Only use the provided palette
-        const colors = ["#040e5d", "#0833a5", "#840207", "#c60601", "#520201"];
-        return colors[Math.floor(Math.random() * colors.length)];
+    // Show arrow hint after 3 seconds, position at top center
+    setTimeout(() => {
+      if (!window.shattering) {
+        document.getElementById("arrow-hint").style.display = "block";
       }
-      function createConfettiPiece() {
-        return {
-          x: Math.random() * canvas.width,
-          y: -10,
-          r: 6 + Math.random() * 6,
-          d: Math.random() * 100,
-          color: randomColor(),
-          tilt: Math.random() * 10 - 5,
-          tiltAngle: 0,
-          tiltAngleIncremental: Math.random() * 0.07 + 0.05,
-        };
-      }
-      function initConfetti() {
-        confetti = [];
-        for (let i = 0; i < 60; i++) {
-          confetti.push(createConfettiPiece());
-        }
-      }
-      function drawConfetti() {
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-        confetti.forEach((c) => {
-          ctx.beginPath();
-          ctx.lineWidth = c.r;
-          ctx.strokeStyle = c.color;
-          ctx.moveTo(c.x + c.tilt + c.r / 3, c.y);
-          ctx.lineTo(c.x + c.tilt, c.y + c.tilt + c.r / 3);
-          ctx.stroke();
-        });
-        updateConfetti();
-      }
-      function updateConfetti() {
-        confetti.forEach((c) => {
-          c.y += (Math.cos(c.d) + 2 + c.r / 2) / 2;
-          c.x += Math.sin(0.01 * c.d);
-          c.tiltAngle += c.tiltAngleIncremental;
-          c.tilt = Math.sin(c.tiltAngle) * 10;
-          if (c.y > canvas.height + 20) {
-            c.x = Math.random() * canvas.width;
-            c.y = -10;
-            c.tilt = Math.random() * 10 - 5;
-          }
-        });
-      }
-      function animateConfetti() {
-        drawConfetti();
-        requestAnimationFrame(animateConfetti);
-      }
-      initConfetti();
-      animateConfetti();
+    }, 3000);
 
-      // Badge spin and delayed navigation
-      const card = document.getElementById("badge-card");
-      const link = document.getElementById("badge-link");
-      let spinning = false;
-      card.addEventListener("click", function (e) {
-        if (spinning) return;
-        e.preventDefault();
-        spinning = true;
-        card.classList.add("spin");
-        setTimeout(() => {
-          card.classList.remove("spin");
-          setTimeout(() => {
-            window.location.href = link.href;
-            spinning = false;
-          }, 500);
-        }, 500);
-      });
-
-      // Show card after 1 second with slide-in from top
-      window.addEventListener("DOMContentLoaded", function () {
-        setTimeout(function () {
-          document.getElementById("badge-card").classList.add("visible");
-        }, 1000);
-      });
-    </script>
-  </body>
+    // Hide arrow on card click
+    card.addEventListener("click", function () {
+      document.getElementById("arrow-hint").style.display = "none";
+    });
+  </script>
+</body>
 </html>
