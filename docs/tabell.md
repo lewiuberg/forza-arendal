@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-06-17 22:06:26
+Tabellene er sist oppdatert: 2025-06-18 22:06:43
 
 ## A-lag Herrer
 
@@ -455,8 +455,27 @@ Tabellene er sist oppdatert: 2025-06-17 22:06:26
       <td>23</td>
       <td>22</td>
     </tr>
-    <tr class="row-highlight">
+    <tr>
       <td>2</td>
+      <td>Pors</td>
+      <td>9</td>
+      <td>5</td>
+      <td>1</td>
+      <td>1</td>
+      <td>19 - 4</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>7 - 2</td>
+      <td>6</td>
+      <td>1</td>
+      <td>2</td>
+      <td>26 - 6</td>
+      <td>20</td>
+      <td>19</td>
+    </tr>
+    <tr class="row-highlight">
+      <td>3</td>
       <td>Arendal</td>
       <td>9</td>
       <td>2</td>
@@ -475,7 +494,7 @@ Tabellene er sist oppdatert: 2025-06-17 22:06:26
       <td>19</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Flint</td>
       <td>9</td>
       <td>3</td>
@@ -492,25 +511,6 @@ Tabellene er sist oppdatert: 2025-06-17 22:06:26
       <td>21 - 12</td>
       <td>9</td>
       <td>19</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Pors</td>
-      <td>8</td>
-      <td>5</td>
-      <td>0</td>
-      <td>1</td>
-      <td>19 - 4</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>7 - 2</td>
-      <td>6</td>
-      <td>0</td>
-      <td>2</td>
-      <td>26 - 6</td>
-      <td>20</td>
-      <td>18</td>
     </tr>
     <tr>
       <td>5</td>
@@ -648,21 +648,21 @@ Tabellene er sist oppdatert: 2025-06-17 22:06:26
     <tr>
       <td>12</td>
       <td>Hei</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>1</td>
       <td>2</td>
       <td>1 - 11</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
       <td>5</td>
       <td>5 - 15</td>
       <td>0</td>
-      <td>1</td>
+      <td>2</td>
       <td>7</td>
       <td>6 - 26</td>
       <td>-20</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table>
