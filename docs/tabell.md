@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-06-23 22:07:04
+Tabellene er sist oppdatert: 2025-06-24 22:06:45
 
 ## A-lag Herrer
 
@@ -401,21 +401,21 @@ Tabellene er sist oppdatert: 2025-06-23 22:07:04
     <tr>
       <td>4</td>
       <td>Pors</td>
-      <td>9</td>
+      <td>10</td>
       <td>5</td>
       <td>1</td>
       <td>1</td>
       <td>19 - 4</td>
       <td>1</td>
-      <td>0</td>
+      <td>1</td>
       <td>1</td>
       <td>7 - 2</td>
       <td>6</td>
-      <td>1</td>
+      <td>2</td>
       <td>2</td>
       <td>26 - 6</td>
       <td>20</td>
-      <td>19</td>
+      <td>20</td>
     </tr>
     <tr>
       <td>5</td>
@@ -457,6 +457,25 @@ Tabellene er sist oppdatert: 2025-06-23 22:07:04
     </tr>
     <tr>
       <td>7</td>
+      <td>Skarphedin</td>
+      <td>10</td>
+      <td>3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>6 - 6</td>
+      <td>1</td>
+      <td>0</td>
+      <td>3</td>
+      <td>6 - 10</td>
+      <td>4</td>
+      <td>1</td>
+      <td>5</td>
+      <td>12 - 16</td>
+      <td>-4</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>Randesund</td>
       <td>10</td>
       <td>4</td>
@@ -472,25 +491,6 @@ Tabellene er sist oppdatert: 2025-06-23 22:07:04
       <td>6</td>
       <td>22 - 22</td>
       <td>0</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Skarphedin</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0</td>
-      <td>2</td>
-      <td>6 - 6</td>
-      <td>1</td>
-      <td>0</td>
-      <td>3</td>
-      <td>6 - 10</td>
-      <td>4</td>
-      <td>0</td>
-      <td>5</td>
-      <td>12 - 16</td>
-      <td>-4</td>
       <td>12</td>
     </tr>
     <tr>
