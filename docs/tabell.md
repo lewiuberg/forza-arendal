@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-07-11 22:06:44
+Tabellene er sist oppdatert: 2025-07-12 22:05:54
 
 ## A-lag Herrer
 
@@ -118,8 +118,27 @@ Tabellene er sist oppdatert: 2025-07-11 22:06:44
       <td>0</td>
       <td>20</td>
     </tr>
-    <tr class="row-highlight">
+    <tr>
       <td>5</td>
+      <td>Brattvåg</td>
+      <td>14</td>
+      <td>4</td>
+      <td>1</td>
+      <td>2</td>
+      <td>18 - 13</td>
+      <td>1</td>
+      <td>3</td>
+      <td>3</td>
+      <td>14 - 16</td>
+      <td>5</td>
+      <td>4</td>
+      <td>5</td>
+      <td>32 - 29</td>
+      <td>3</td>
+      <td>19</td>
+    </tr>
+    <tr class="row-highlight">
+      <td>6</td>
       <td>Arendal</td>
       <td>13</td>
       <td>2</td>
@@ -136,25 +155,6 @@ Tabellene er sist oppdatert: 2025-07-11 22:06:44
       <td>24 - 18</td>
       <td>6</td>
       <td>17</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Brattvåg</td>
-      <td>13</td>
-      <td>3</td>
-      <td>1</td>
-      <td>2</td>
-      <td>16 - 13</td>
-      <td>1</td>
-      <td>3</td>
-      <td>3</td>
-      <td>14 - 16</td>
-      <td>4</td>
-      <td>4</td>
-      <td>5</td>
-      <td>30 - 29</td>
-      <td>1</td>
-      <td>16</td>
     </tr>
     <tr>
       <td>7</td>
@@ -196,25 +196,44 @@ Tabellene er sist oppdatert: 2025-07-11 22:06:44
     </tr>
     <tr>
       <td>9</td>
+      <td>Pors</td>
+      <td>14</td>
+      <td>2</td>
+      <td>3</td>
+      <td>2</td>
+      <td>6 - 7</td>
+      <td>1</td>
+      <td>3</td>
+      <td>3</td>
+      <td>13 - 16</td>
+      <td>3</td>
+      <td>6</td>
+      <td>5</td>
+      <td>19 - 23</td>
+      <td>-4</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>Vard Haugesund</td>
-      <td>13</td>
+      <td>14</td>
       <td>1</td>
       <td>3</td>
       <td>3</td>
       <td>15 - 19</td>
       <td>2</td>
       <td>3</td>
-      <td>1</td>
-      <td>9 - 8</td>
+      <td>2</td>
+      <td>9 - 10</td>
       <td>3</td>
       <td>6</td>
-      <td>4</td>
-      <td>24 - 27</td>
-      <td>-3</td>
+      <td>5</td>
+      <td>24 - 29</td>
+      <td>-5</td>
       <td>15</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>Lysekloster</td>
       <td>13</td>
       <td>3</td>
@@ -230,25 +249,6 @@ Tabellene er sist oppdatert: 2025-07-11 22:06:44
       <td>5</td>
       <td>17 - 18</td>
       <td>-1</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Pors</td>
-      <td>13</td>
-      <td>2</td>
-      <td>3</td>
-      <td>2</td>
-      <td>6 - 7</td>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-      <td>10 - 13</td>
-      <td>3</td>
-      <td>5</td>
-      <td>5</td>
-      <td>16 - 20</td>
-      <td>-4</td>
       <td>14</td>
     </tr>
     <tr>
@@ -273,21 +273,21 @@ Tabellene er sist oppdatert: 2025-07-11 22:06:44
     <tr>
       <td>13</td>
       <td>Træff</td>
-      <td>13</td>
+      <td>14</td>
       <td>2</td>
-      <td>1</td>
+      <td>2</td>
       <td>3</td>
-      <td>9 - 10</td>
+      <td>12 - 13</td>
       <td>1</td>
       <td>2</td>
       <td>4</td>
       <td>4 - 11</td>
       <td>3</td>
-      <td>3</td>
+      <td>4</td>
       <td>7</td>
-      <td>13 - 21</td>
+      <td>16 - 24</td>
       <td>-8</td>
-      <td>12</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>14</td>
