@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-08-10 22:06:27
+Tabellene er sist oppdatert: 2025-08-13 22:06:34
 
 ## A-lag Herrer
 
@@ -381,6 +381,25 @@ Tabellene er sist oppdatert: 2025-08-10 22:06:27
     </tr>
     <tr>
       <td>3</td>
+      <td>Flint</td>
+      <td>12</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>14 - 9</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>15 - 6</td>
+      <td>7</td>
+      <td>3</td>
+      <td>2</td>
+      <td>29 - 15</td>
+      <td>14</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Hønefoss BK 2</td>
       <td>12</td>
       <td>6</td>
@@ -399,7 +418,7 @@ Tabellene er sist oppdatert: 2025-08-10 22:06:27
       <td>24</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Pors</td>
       <td>12</td>
       <td>5</td>
@@ -418,42 +437,23 @@ Tabellene er sist oppdatert: 2025-08-10 22:06:27
       <td>23</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>Flint</td>
-      <td>11</td>
-      <td>3</td>
-      <td>1</td>
-      <td>1</td>
-      <td>12 - 7</td>
-      <td>4</td>
-      <td>1</td>
-      <td>1</td>
-      <td>15 - 6</td>
-      <td>7</td>
-      <td>2</td>
-      <td>2</td>
-      <td>27 - 13</td>
-      <td>14</td>
-      <td>23</td>
-    </tr>
-    <tr>
       <td>6</td>
       <td>Snøgg</td>
-      <td>11</td>
-      <td>4</td>
+      <td>12</td>
+      <td>5</td>
       <td>2</td>
       <td>0</td>
-      <td>19 - 4</td>
+      <td>24 - 4</td>
       <td>2</td>
       <td>0</td>
       <td>3</td>
       <td>14 - 13</td>
-      <td>6</td>
+      <td>7</td>
       <td>2</td>
       <td>3</td>
-      <td>33 - 17</td>
-      <td>16</td>
-      <td>20</td>
+      <td>38 - 17</td>
+      <td>21</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>7</td>
@@ -496,20 +496,20 @@ Tabellene er sist oppdatert: 2025-08-10 22:06:27
     <tr>
       <td>9</td>
       <td>Konnerud</td>
-      <td>11</td>
+      <td>12</td>
       <td>1</td>
       <td>0</td>
       <td>4</td>
       <td>6 - 18</td>
       <td>2</td>
       <td>1</td>
-      <td>3</td>
-      <td>7 - 16</td>
+      <td>4</td>
+      <td>7 - 21</td>
       <td>3</td>
       <td>1</td>
-      <td>7</td>
-      <td>13 - 34</td>
-      <td>-21</td>
+      <td>8</td>
+      <td>13 - 39</td>
+      <td>-26</td>
       <td>10</td>
     </tr>
     <tr>
@@ -553,21 +553,21 @@ Tabellene er sist oppdatert: 2025-08-10 22:06:27
     <tr>
       <td>12</td>
       <td>Hei</td>
-      <td>11</td>
+      <td>12</td>
       <td>0</td>
       <td>1</td>
       <td>3</td>
       <td>4 - 15</td>
       <td>0</td>
-      <td>1</td>
+      <td>2</td>
       <td>6</td>
-      <td>7 - 19</td>
+      <td>9 - 21</td>
       <td>0</td>
-      <td>2</td>
+      <td>3</td>
       <td>9</td>
-      <td>11 - 34</td>
+      <td>13 - 36</td>
       <td>-23</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
