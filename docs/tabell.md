@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-08-15 22:06:58
+Tabellene er sist oppdatert: 2025-08-16 22:06:16
 
 ## A-lag Herrer
 
@@ -42,271 +42,366 @@ Tabellene er sist oppdatert: 2025-08-15 22:06:58
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="row-highlight">
       <td>1</td>
-      <td>Sandnes Ulf</td>
-      <td>15</td>
+      <td>Arendal</td>
       <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0 - 1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>10 - 7</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>10 - 8</td>
       <td>2</td>
       <td>0</td>
-      <td>21 - 4</td>
-      <td>5</td>
-      <td>2</td>
-      <td>1</td>
-      <td>22 - 11</td>
-      <td>10</td>
-      <td>4</td>
-      <td>1</td>
-      <td>43 - 15</td>
-      <td>28</td>
-      <td>34</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>Sotra</td>
-      <td>15</td>
-      <td>5</td>
       <td>1</td>
-      <td>2</td>
-      <td>23 - 10</td>
-      <td>5</td>
-      <td>2</td>
+      <td>Birkenes G14</td>
+      <td>1</td>
       <td>0</td>
-      <td>11 - 3</td>
-      <td>10</td>
-      <td>3</td>
-      <td>2</td>
-      <td>34 - 13</td>
-      <td>21</td>
-      <td>33</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7 - 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7 - 2</td>
+      <td>5</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Jerv</td>
-      <td>15</td>
-      <td>4</td>
-      <td>2</td>
-      <td>2</td>
-      <td>15 - 9</td>
-      <td>4</td>
       <td>1</td>
-      <td>2</td>
-      <td>14 - 13</td>
-      <td>8</td>
+      <td>Bryne</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1 - 0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1 - 0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Donn</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1 - 1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1 - 1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Egersund</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Express</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2 - 1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2 - 1</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Fløy</td>
       <td>3</td>
-      <td>4</td>
-      <td>29 - 22</td>
-      <td>7</td>
-      <td>27</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>5 - 7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1 - 5</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>6 - 12</td>
+      <td>-6</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Grorud</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr class="row-highlight">
-      <td>4</td>
-      <td>Arendal</td>
-      <td>15</td>
-      <td>3</td>
-      <td>4</td>
+      <td>1</td>
+      <td>Hisøy /Arendal 2</td>
+      <td>1</td>
       <td>0</td>
-      <td>21 - 10</td>
-      <td>2</td>
-      <td>4</td>
-      <td>2</td>
-      <td>12 - 10</td>
-      <td>5</td>
-      <td>8</td>
-      <td>2</td>
-      <td>33 - 20</td>
-      <td>13</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Brattvåg</td>
-      <td>15</td>
-      <td>4</td>
-      <td>1</td>
-      <td>2</td>
-      <td>18 - 13</td>
-      <td>1</td>
-      <td>4</td>
-      <td>3</td>
-      <td>15 - 17</td>
-      <td>5</td>
-      <td>5</td>
-      <td>5</td>
-      <td>33 - 30</td>
-      <td>3</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Notodden</td>
-      <td>15</td>
-      <td>4</td>
-      <td>1</td>
-      <td>3</td>
-      <td>11 - 12</td>
-      <td>1</td>
-      <td>4</td>
-      <td>2</td>
-      <td>7 - 15</td>
-      <td>5</td>
-      <td>5</td>
-      <td>5</td>
-      <td>18 - 27</td>
-      <td>-9</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>FK Eik Tønsberg 871</td>
-      <td>15</td>
-      <td>2</td>
-      <td>5</td>
-      <td>1</td>
-      <td>13 - 10</td>
-      <td>2</td>
-      <td>2</td>
-      <td>3</td>
-      <td>9 - 15</td>
-      <td>4</td>
-      <td>7</td>
-      <td>4</td>
-      <td>22 - 25</td>
-      <td>-3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Lysekloster</td>
-      <td>15</td>
-      <td>3</td>
-      <td>2</td>
-      <td>2</td>
-      <td>10 - 7</td>
-      <td>1</td>
-      <td>3</td>
-      <td>4</td>
-      <td>10 - 13</td>
-      <td>4</td>
-      <td>5</td>
-      <td>6</td>
-      <td>20 - 20</td>
       <td>0</td>
-      <td>17</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0 - 7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0 - 7</td>
+      <td>-7</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>Pors</td>
-      <td>15</td>
+      <td>1</td>
+      <td>Jerv</td>
+      <td>6</td>
+      <td>1</td>
+      <td>1</td>
       <td>2</td>
-      <td>4</td>
+      <td>8 - 9</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2 - 3</td>
       <td>2</td>
-      <td>7 - 8</td>
       <td>1</td>
       <td>3</td>
-      <td>3</td>
-      <td>13 - 16</td>
-      <td>3</td>
-      <td>7</td>
-      <td>5</td>
-      <td>20 - 24</td>
-      <td>-4</td>
-      <td>16</td>
+      <td>10 - 12</td>
+      <td>-2</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>Vard Haugesund</td>
-      <td>15</td>
       <td>1</td>
-      <td>4</td>
-      <td>3</td>
-      <td>17 - 21</td>
-      <td>2</td>
-      <td>3</td>
-      <td>2</td>
-      <td>9 - 10</td>
-      <td>3</td>
-      <td>7</td>
-      <td>5</td>
-      <td>26 - 31</td>
+      <td>Lillesand G14</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2 - 7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2 - 7</td>
       <td>-5</td>
-      <td>16</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>Brann  2</td>
-      <td>15</td>
-      <td>3</td>
       <td>1</td>
-      <td>3</td>
-      <td>14 - 17</td>
+      <td>Lyn</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0 - 2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0 - 2</td>
+      <td>-2</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Mandalskameratene</td>
       <td>2</td>
       <td>0</td>
-      <td>6</td>
-      <td>11 - 25</td>
-      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
       <td>1</td>
-      <td>9</td>
-      <td>25 - 42</td>
-      <td>-17</td>
-      <td>16</td>
+      <td>1</td>
+      <td>3 - 4</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>3 - 4</td>
+      <td>-1</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>Træff</td>
-      <td>15</td>
-      <td>2</td>
-      <td>2</td>
-      <td>3</td>
-      <td>12 - 13</td>
       <td>1</td>
-      <td>3</td>
-      <td>4</td>
-      <td>6 - 13</td>
-      <td>3</td>
+      <td>Mjøndalen senior a</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4 - 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4 - 3</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Pors</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2 - 5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2 - 5</td>
+      <td>-3</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Start</td>
+      <td>6</td>
       <td>5</td>
-      <td>7</td>
-      <td>18 - 26</td>
+      <td>1</td>
+      <td>0</td>
+      <td>23 - 4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>5</td>
+      <td>1</td>
+      <td>0</td>
+      <td>23 - 4</td>
+      <td>19</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Vindbjart</td>
+      <td>5</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>4 - 5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1 - 2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td>5 - 7</td>
+      <td>-2</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Våg</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2 - 10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2 - 10</td>
       <td>-8</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Sandviken</td>
-      <td>15</td>
-      <td>2</td>
-      <td>3</td>
-      <td>3</td>
-      <td>13 - 14</td>
-      <td>1</td>
-      <td>2</td>
-      <td>4</td>
-      <td>8 - 20</td>
-      <td>3</td>
-      <td>5</td>
-      <td>7</td>
-      <td>21 - 34</td>
-      <td>-13</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Fløy-Flekkerøy</td>
-      <td>15</td>
-      <td>2</td>
-      <td>3</td>
-      <td>2</td>
-      <td>11 - 9</td>
       <td>0</td>
-      <td>2</td>
-      <td>6</td>
-      <td>10 - 25</td>
-      <td>2</td>
-      <td>5</td>
-      <td>8</td>
-      <td>21 - 34</td>
-      <td>-13</td>
-      <td>11</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Øyestad</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7 - 0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0 - 0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7 - 0</td>
+      <td>7</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table>
@@ -341,8 +436,27 @@ Tabellene er sist oppdatert: 2025-08-15 22:06:58
     </tr>
   </thead>
   <tbody>
-    <tr class="row-highlight">
+    <tr>
       <td>1</td>
+      <td>Strømsgodset</td>
+      <td>12</td>
+      <td>3</td>
+      <td>0</td>
+      <td>1</td>
+      <td>12 - 6</td>
+      <td>6</td>
+      <td>2</td>
+      <td>0</td>
+      <td>26 - 1</td>
+      <td>9</td>
+      <td>2</td>
+      <td>1</td>
+      <td>38 - 7</td>
+      <td>31</td>
+      <td>29</td>
+    </tr>
+    <tr class="row-highlight">
+      <td>2</td>
       <td>Arendal</td>
       <td>12</td>
       <td>4</td>
@@ -359,25 +473,6 @@ Tabellene er sist oppdatert: 2025-08-15 22:06:58
       <td>39 - 5</td>
       <td>34</td>
       <td>28</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Strømsgodset</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0</td>
-      <td>1</td>
-      <td>12 - 6</td>
-      <td>5</td>
-      <td>2</td>
-      <td>0</td>
-      <td>20 - 1</td>
-      <td>8</td>
-      <td>2</td>
-      <td>1</td>
-      <td>32 - 7</td>
-      <td>25</td>
-      <td>26</td>
     </tr>
     <tr>
       <td>3</td>
@@ -458,21 +553,21 @@ Tabellene er sist oppdatert: 2025-08-15 22:06:58
     <tr>
       <td>7</td>
       <td>Randesund</td>
-      <td>12</td>
+      <td>13</td>
       <td>6</td>
       <td>0</td>
       <td>2</td>
       <td>26 - 12</td>
-      <td>0</td>
+      <td>1</td>
       <td>0</td>
       <td>4</td>
-      <td>2 - 12</td>
-      <td>6</td>
+      <td>3 - 12</td>
+      <td>7</td>
       <td>0</td>
       <td>6</td>
-      <td>28 - 24</td>
-      <td>4</td>
-      <td>18</td>
+      <td>29 - 24</td>
+      <td>5</td>
+      <td>21</td>
     </tr>
     <tr>
       <td>8</td>
@@ -495,78 +590,78 @@ Tabellene er sist oppdatert: 2025-08-15 22:06:58
     </tr>
     <tr>
       <td>9</td>
-      <td>Konnerud</td>
-      <td>12</td>
-      <td>1</td>
+      <td>Fossum /Storm 1</td>
+      <td>13</td>
+      <td>2</td>
+      <td>0</td>
+      <td>5</td>
+      <td>9 - 24</td>
+      <td>2</td>
       <td>0</td>
       <td>4</td>
-      <td>6 - 18</td>
+      <td>7 - 21</td>
+      <td>4</td>
+      <td>0</td>
+      <td>9</td>
+      <td>16 - 45</td>
+      <td>-29</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Konnerud</td>
+      <td>13</td>
+      <td>1</td>
+      <td>0</td>
+      <td>5</td>
+      <td>6 - 19</td>
       <td>2</td>
       <td>1</td>
       <td>4</td>
       <td>7 - 21</td>
       <td>3</td>
       <td>1</td>
-      <td>8</td>
-      <td>13 - 39</td>
-      <td>-26</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Fossum /Storm 1</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0</td>
-      <td>5</td>
-      <td>9 - 24</td>
-      <td>1</td>
-      <td>0</td>
-      <td>4</td>
-      <td>4 - 20</td>
-      <td>3</td>
-      <td>0</td>
       <td>9</td>
-      <td>13 - 44</td>
-      <td>-31</td>
-      <td>9</td>
+      <td>13 - 40</td>
+      <td>-27</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>11</td>
       <td>Gimletroll 1</td>
-      <td>11</td>
+      <td>12</td>
       <td>1</td>
       <td>1</td>
-      <td>4</td>
-      <td>7 - 22</td>
+      <td>5</td>
+      <td>8 - 25</td>
       <td>0</td>
       <td>0</td>
       <td>5</td>
       <td>5 - 24</td>
       <td>1</td>
       <td>1</td>
-      <td>9</td>
-      <td>12 - 46</td>
-      <td>-34</td>
+      <td>10</td>
+      <td>13 - 49</td>
+      <td>-36</td>
       <td>4</td>
     </tr>
     <tr>
       <td>12</td>
       <td>Hei</td>
-      <td>12</td>
+      <td>13</td>
       <td>0</td>
       <td>1</td>
-      <td>3</td>
-      <td>4 - 15</td>
+      <td>4</td>
+      <td>4 - 21</td>
       <td>0</td>
       <td>2</td>
       <td>6</td>
       <td>9 - 21</td>
       <td>0</td>
       <td>3</td>
-      <td>9</td>
-      <td>13 - 36</td>
-      <td>-23</td>
+      <td>10</td>
+      <td>13 - 42</td>
+      <td>-29</td>
       <td>3</td>
     </tr>
   </tbody>
