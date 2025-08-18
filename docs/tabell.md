@@ -10,7 +10,11 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
+<<<<<<< HEAD
 Tabellene er sist oppdatert: 2025-08-18 10:09:13
+=======
+Tabellene er sist oppdatert: 2025-08-18 10:08:24
+>>>>>>> 4baa9abef770bc4632accec7f19563edab0ad915
 
 ## A-lag Herrer
 
