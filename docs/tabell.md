@@ -10,11 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-<<<<<<< HEAD
-Tabellene er sist oppdatert: 2025-08-18 10:09:13
-=======
-Tabellene er sist oppdatert: 2025-08-18 10:08:24
->>>>>>> 4baa9abef770bc4632accec7f19563edab0ad915
+Tabellene er sist oppdatert: 2025-08-21 22:06:38
 
 ## A-lag Herrer
 
@@ -200,6 +196,25 @@ Tabellene er sist oppdatert: 2025-08-18 10:08:24
     </tr>
     <tr>
       <td>9</td>
+      <td>Brann  2</td>
+      <td>16</td>
+      <td>4</td>
+      <td>1</td>
+      <td>3</td>
+      <td>16 - 18</td>
+      <td>2</td>
+      <td>0</td>
+      <td>6</td>
+      <td>11 - 25</td>
+      <td>6</td>
+      <td>1</td>
+      <td>9</td>
+      <td>27 - 43</td>
+      <td>-16</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>Lysekloster</td>
       <td>16</td>
       <td>3</td>
@@ -218,41 +233,22 @@ Tabellene er sist oppdatert: 2025-08-18 10:08:24
       <td>18</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>Vard Haugesund</td>
-      <td>15</td>
+      <td>16</td>
       <td>1</td>
       <td>4</td>
       <td>3</td>
       <td>17 - 21</td>
       <td>2</td>
       <td>3</td>
-      <td>2</td>
-      <td>9 - 10</td>
+      <td>3</td>
+      <td>10 - 12</td>
       <td>3</td>
       <td>7</td>
-      <td>5</td>
-      <td>26 - 31</td>
-      <td>-5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Brann  2</td>
-      <td>15</td>
-      <td>3</td>
-      <td>1</td>
-      <td>3</td>
-      <td>14 - 17</td>
-      <td>2</td>
-      <td>0</td>
       <td>6</td>
-      <td>11 - 25</td>
-      <td>5</td>
-      <td>1</td>
-      <td>9</td>
-      <td>25 - 42</td>
-      <td>-17</td>
+      <td>27 - 33</td>
+      <td>-6</td>
       <td>16</td>
     </tr>
     <tr>
