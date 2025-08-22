@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-08-21 22:06:38
+Tabellene er sist oppdatert: 2025-08-22 22:06:33
 
 ## A-lag Herrer
 
@@ -381,6 +381,25 @@ Tabellene er sist oppdatert: 2025-08-21 22:06:38
     </tr>
     <tr>
       <td>3</td>
+      <td>Flint</td>
+      <td>14</td>
+      <td>4</td>
+      <td>2</td>
+      <td>1</td>
+      <td>17 - 11</td>
+      <td>4</td>
+      <td>1</td>
+      <td>2</td>
+      <td>16 - 8</td>
+      <td>8</td>
+      <td>3</td>
+      <td>3</td>
+      <td>33 - 19</td>
+      <td>14</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Pors</td>
       <td>13</td>
       <td>5</td>
@@ -399,7 +418,7 @@ Tabellene er sist oppdatert: 2025-08-21 22:06:38
       <td>26</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Snøgg</td>
       <td>13</td>
       <td>5</td>
@@ -415,25 +434,6 @@ Tabellene er sist oppdatert: 2025-08-21 22:06:38
       <td>3</td>
       <td>40 - 19</td>
       <td>21</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Flint</td>
-      <td>13</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>14 - 9</td>
-      <td>4</td>
-      <td>1</td>
-      <td>2</td>
-      <td>16 - 8</td>
-      <td>7</td>
-      <td>3</td>
-      <td>3</td>
-      <td>30 - 17</td>
-      <td>13</td>
       <td>24</td>
     </tr>
     <tr>
@@ -515,20 +515,20 @@ Tabellene er sist oppdatert: 2025-08-21 22:06:38
     <tr>
       <td>10</td>
       <td>Konnerud</td>
-      <td>13</td>
+      <td>14</td>
       <td>1</td>
       <td>0</td>
       <td>5</td>
       <td>6 - 19</td>
       <td>2</td>
       <td>1</td>
-      <td>4</td>
-      <td>7 - 21</td>
+      <td>5</td>
+      <td>9 - 24</td>
       <td>3</td>
       <td>1</td>
-      <td>9</td>
-      <td>13 - 40</td>
-      <td>-27</td>
+      <td>10</td>
+      <td>15 - 43</td>
+      <td>-28</td>
       <td>10</td>
     </tr>
     <tr>
