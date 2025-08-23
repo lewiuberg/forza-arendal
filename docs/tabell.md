@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-08-22 22:06:33
+Tabellene er sist oppdatert: 2025-08-23 22:05:54
 
 ## A-lag Herrer
 
@@ -45,20 +45,20 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
     <tr>
       <td>1</td>
       <td>Sandnes Ulf</td>
-      <td>16</td>
+      <td>17</td>
       <td>5</td>
       <td>3</td>
       <td>0</td>
       <td>21 - 4</td>
       <td>5</td>
       <td>2</td>
-      <td>1</td>
-      <td>22 - 11</td>
+      <td>2</td>
+      <td>24 - 15</td>
       <td>10</td>
       <td>5</td>
-      <td>1</td>
-      <td>43 - 15</td>
-      <td>28</td>
+      <td>2</td>
+      <td>45 - 19</td>
+      <td>26</td>
       <td>35</td>
     </tr>
     <tr>
@@ -139,6 +139,25 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
     </tr>
     <tr>
       <td>6</td>
+      <td>Pors</td>
+      <td>17</td>
+      <td>3</td>
+      <td>4</td>
+      <td>2</td>
+      <td>11 - 10</td>
+      <td>2</td>
+      <td>3</td>
+      <td>3</td>
+      <td>16 - 16</td>
+      <td>5</td>
+      <td>7</td>
+      <td>5</td>
+      <td>27 - 26</td>
+      <td>1</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>Notodden</td>
       <td>16</td>
       <td>4</td>
@@ -157,41 +176,22 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
       <td>20</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>Pors</td>
-      <td>16</td>
-      <td>2</td>
-      <td>4</td>
-      <td>2</td>
-      <td>7 - 8</td>
-      <td>2</td>
-      <td>3</td>
-      <td>3</td>
-      <td>16 - 16</td>
-      <td>4</td>
-      <td>7</td>
-      <td>5</td>
-      <td>23 - 24</td>
-      <td>-1</td>
-      <td>19</td>
-    </tr>
-    <tr>
       <td>8</td>
       <td>FK Eik Tønsberg 871</td>
-      <td>16</td>
+      <td>17</td>
       <td>2</td>
       <td>5</td>
       <td>1</td>
       <td>13 - 10</td>
       <td>2</td>
       <td>2</td>
-      <td>4</td>
-      <td>9 - 16</td>
+      <td>5</td>
+      <td>9 - 18</td>
       <td>4</td>
       <td>7</td>
-      <td>5</td>
-      <td>22 - 26</td>
-      <td>-4</td>
+      <td>6</td>
+      <td>22 - 28</td>
+      <td>-6</td>
       <td>19</td>
     </tr>
     <tr>
@@ -234,6 +234,25 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
     </tr>
     <tr>
       <td>11</td>
+      <td>Sandviken</td>
+      <td>17</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>15 - 14</td>
+      <td>1</td>
+      <td>3</td>
+      <td>4</td>
+      <td>9 - 21</td>
+      <td>4</td>
+      <td>6</td>
+      <td>7</td>
+      <td>24 - 35</td>
+      <td>-11</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>Vard Haugesund</td>
       <td>16</td>
       <td>1</td>
@@ -250,25 +269,6 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
       <td>27 - 33</td>
       <td>-6</td>
       <td>16</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Sandviken</td>
-      <td>16</td>
-      <td>2</td>
-      <td>3</td>
-      <td>3</td>
-      <td>13 - 14</td>
-      <td>1</td>
-      <td>3</td>
-      <td>4</td>
-      <td>9 - 21</td>
-      <td>3</td>
-      <td>6</td>
-      <td>7</td>
-      <td>22 - 35</td>
-      <td>-13</td>
-      <td>15</td>
     </tr>
     <tr>
       <td>13</td>
@@ -341,8 +341,27 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
     </tr>
   </thead>
   <tbody>
-    <tr class="row-highlight">
+    <tr>
       <td>1</td>
+      <td>Strømsgodset</td>
+      <td>13</td>
+      <td>4</td>
+      <td>0</td>
+      <td>1</td>
+      <td>14 - 6</td>
+      <td>6</td>
+      <td>2</td>
+      <td>0</td>
+      <td>26 - 1</td>
+      <td>10</td>
+      <td>2</td>
+      <td>1</td>
+      <td>40 - 7</td>
+      <td>33</td>
+      <td>32</td>
+    </tr>
+    <tr class="row-highlight">
+      <td>2</td>
       <td>Arendal</td>
       <td>13</td>
       <td>4</td>
@@ -358,25 +377,6 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
       <td>2</td>
       <td>41 - 7</td>
       <td>34</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Strømsgodset</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0</td>
-      <td>1</td>
-      <td>12 - 6</td>
-      <td>6</td>
-      <td>2</td>
-      <td>0</td>
-      <td>26 - 1</td>
-      <td>9</td>
-      <td>2</td>
-      <td>1</td>
-      <td>38 - 7</td>
-      <td>31</td>
       <td>29</td>
     </tr>
     <tr>
@@ -477,20 +477,20 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
     <tr>
       <td>8</td>
       <td>Skarphedin</td>
-      <td>13</td>
+      <td>14</td>
       <td>4</td>
       <td>1</td>
       <td>2</td>
       <td>8 - 7</td>
       <td>1</td>
       <td>0</td>
-      <td>5</td>
-      <td>7 - 14</td>
+      <td>6</td>
+      <td>7 - 16</td>
       <td>5</td>
       <td>1</td>
-      <td>7</td>
-      <td>15 - 21</td>
-      <td>-6</td>
+      <td>8</td>
+      <td>15 - 23</td>
+      <td>-8</td>
       <td>16</td>
     </tr>
     <tr>
@@ -533,41 +533,41 @@ Tabellene er sist oppdatert: 2025-08-22 22:06:33
     </tr>
     <tr>
       <td>11</td>
-      <td>Gimletroll 1</td>
+      <td>Hei</td>
+      <td>14</td>
+      <td>1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>6 - 21</td>
+      <td>0</td>
+      <td>2</td>
+      <td>6</td>
+      <td>9 - 21</td>
+      <td>1</td>
+      <td>3</td>
+      <td>10</td>
+      <td>15 - 42</td>
+      <td>-27</td>
+      <td>6</td>
+    </tr>
+    <tr>
       <td>12</td>
+      <td>Gimletroll 1</td>
+      <td>13</td>
       <td>1</td>
       <td>1</td>
       <td>5</td>
       <td>8 - 25</td>
       <td>0</td>
       <td>0</td>
-      <td>5</td>
-      <td>5 - 24</td>
-      <td>1</td>
-      <td>1</td>
-      <td>10</td>
-      <td>13 - 49</td>
-      <td>-36</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Hei</td>
-      <td>13</td>
-      <td>0</td>
-      <td>1</td>
-      <td>4</td>
-      <td>4 - 21</td>
-      <td>0</td>
-      <td>2</td>
       <td>6</td>
-      <td>9 - 21</td>
-      <td>0</td>
-      <td>3</td>
-      <td>10</td>
-      <td>13 - 42</td>
-      <td>-29</td>
-      <td>3</td>
+      <td>5 - 26</td>
+      <td>1</td>
+      <td>1</td>
+      <td>11</td>
+      <td>13 - 51</td>
+      <td>-38</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table>
