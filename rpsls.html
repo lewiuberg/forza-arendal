@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rock, Paper, Scissors, Lizard, Spock</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 40px; }
+        .rules { background: #f8f8f8; border-radius: 8px; padding: 16px; margin: 0 auto 30px auto; max-width: 600px; }
+        .buttons { margin: 20px 0; }
+        button { font-size: 1.2em; margin: 0 10px; padding: 10px 20px; border-radius: 8px; border: 1px solid #ccc; background: #f0f0f0; cursor: pointer; transition: background 0.2s; }
+        button:hover { background: #e0e0e0; }
+        .emoji { font-size: 2em; display: block; }
+        .result { margin-top: 30px; font-size: 1.3em; }
+        .battle { display: flex; justify-content: center; align-items: center; gap: 40px; margin: 30px 0 10px 0; }
+        .battle-emoji { font-size: 3em; transition: transform 0.5s, opacity 0.5s; }
+        .winner { animation: bounce 0.7s 2; }
+        .loser { opacity: 0.3; }
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-20px); }
+            60% { transform: translateY(-10px); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Rock, Paper, Scissors, Lizard, Spock</h1>
+    <div class="rules">
+        <h2>How to Play</h2>
+        <ul style="text-align:left; display:inline-block; margin:0 auto;">
+            <li>Scissors cuts Paper</li>
+            <li>Paper covers Rock</li>
+            <li>Rock crushes Lizard</li>
+            <li>Lizard poisons Spock</li>
+            <li>Spock smashes Scissors</li>
+            <li>Scissors decapitates Lizard</li>
+            <li>Lizard eats Paper</li>
+            <li>Paper disproves Spock</li>
+            <li>Spock vaporizes Rock</li>
+            <li>Rock crushes Scissors</li>
+        </ul>
+        <p style="margin-top:10px;">Each gesture beats two others and is beaten by two. Can you outsmart the computer?</p>
+    </div>
+    <div class="buttons">
+        <button onclick="play('rock')"><span class="emoji">🪨</span>Rock</button>
+        <button onclick="play('paper')"><span class="emoji">📄</span>Paper</button>
+        <button onclick="play('scissors')"><span class="emoji">✂️</span>Scissors</button>
+        <button onclick="play('lizard')"><span class="emoji">🦎</span>Lizard</button>
+        <button onclick="play('spock')"><span class="emoji">🖖</span>Spock</button>
+    </div>
+    <div id="result" class="result" style="display:none;"></div>
+    <script>
+        const emojiMap = {
+            rock: '🪨',
+            paper: '📄',
+            scissors: '✂️',
+            lizard: '🦎',
+            spock: '🖖'
+        };
+        const gestures = Object.keys(emojiMap);
+        const rules = {
+            'rock':     { beats: ['scissors', 'lizard'], text: {scissors: 'Rock crushes Scissors', lizard: 'Rock crushes Lizard'} },
+            'paper':    { beats: ['rock', 'spock'], text: {rock: 'Paper covers Rock', spock: 'Paper disproves Spock'} },
+            'scissors': { beats: ['paper', 'lizard'], text: {paper: 'Scissors cuts Paper', lizard: 'Scissors decapitates Lizard'} },
+            'lizard':   { beats: ['spock', 'paper'], text: {spock: 'Lizard poisons Spock', paper: 'Lizard eats Paper'} },
+            'spock':    { beats: ['scissors', 'rock'], text: {scissors: 'Spock smashes Scissors', rock: 'Spock vaporizes Rock'} }
+        };
+        function play(user) {
+            const computer = gestures[Math.floor(Math.random() * gestures.length)];
+            let result, message, winner, loser;
+            if (user === computer) {
+                result = 'draw';
+                message = `Both chose ${capitalize(user)}! It's a draw.`;
+            } else if (rules[user].beats.includes(computer)) {
+                result = 'win';
+                message = `${rules[user].text[computer]}. You win!`;
+                winner = 'user';
+                loser = 'computer';
+            } else {
+                result = 'lose';
+                message = `${rules[computer].text[user]}. You lose!`;
+                winner = 'computer';
+                loser = 'user';
+            }
+            showResult(user, computer, result, message, winner, loser);
+        }
+        function showResult(user, computer, result, message, winner, loser) {
+            const resultDiv = document.getElementById('result');
+            let userClass = '', computerClass = '';
+            if (result === 'win') {
+                userClass = 'winner';
+                computerClass = 'loser';
+            } else if (result === 'lose') {
+                userClass = 'loser';
+                computerClass = 'winner';
+            }
+            resultDiv.innerHTML = `
+                <div class="battle">
+                    <span id="user-emoji" class="battle-emoji ${userClass}">${emojiMap[user]}</span>
+                    <span style="font-size:2em;">vs</span>
+                    <span id="computer-emoji" class="battle-emoji ${computerClass}">${emojiMap[computer]}</span>
+                </div>
+                <strong>You chose:</strong> ${capitalize(user)}<br>
+                <strong>Computer chose:</strong> ${capitalize(computer)}<br>
+                <strong>${message}</strong>
+            `;
+            resultDiv.style.display = 'block';
+        }
+        function capitalize(str) {
+            return str.charAt(0).toUpperCase() + str.slice(1);
+        }
+    </script>
+</body>
+</html>
