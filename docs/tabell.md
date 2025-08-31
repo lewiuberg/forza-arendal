@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-08-30 22:05:37
+Tabellene er sist oppdatert: 2025-08-31 22:05:37
 
 ## A-lag Herrer
 
@@ -45,21 +45,21 @@ Tabellene er sist oppdatert: 2025-08-30 22:05:37
     <tr>
       <td>1</td>
       <td>Sandnes Ulf</td>
-      <td>17</td>
-      <td>5</td>
+      <td>18</td>
+      <td>6</td>
       <td>3</td>
       <td>0</td>
-      <td>21 - 4</td>
+      <td>25 - 4</td>
       <td>5</td>
       <td>2</td>
       <td>2</td>
       <td>24 - 15</td>
-      <td>10</td>
+      <td>11</td>
       <td>5</td>
       <td>2</td>
-      <td>45 - 19</td>
-      <td>26</td>
-      <td>35</td>
+      <td>49 - 19</td>
+      <td>30</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>2</td>
@@ -102,40 +102,40 @@ Tabellene er sist oppdatert: 2025-08-30 22:05:37
     <tr>
       <td>4</td>
       <td>Jerv</td>
-      <td>17</td>
+      <td>18</td>
       <td>4</td>
       <td>2</td>
       <td>3</td>
       <td>15 - 10</td>
       <td>5</td>
       <td>1</td>
-      <td>2</td>
-      <td>15 - 13</td>
+      <td>3</td>
+      <td>15 - 17</td>
       <td>9</td>
       <td>3</td>
-      <td>5</td>
-      <td>30 - 23</td>
-      <td>7</td>
+      <td>6</td>
+      <td>30 - 27</td>
+      <td>3</td>
       <td>30</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Brattvåg</td>
-      <td>17</td>
-      <td>5</td>
+      <td>18</td>
+      <td>6</td>
       <td>1</td>
       <td>2</td>
-      <td>19 - 13</td>
+      <td>22 - 15</td>
       <td>2</td>
       <td>4</td>
       <td>3</td>
       <td>19 - 19</td>
+      <td>8</td>
+      <td>5</td>
+      <td>5</td>
+      <td>41 - 34</td>
       <td>7</td>
-      <td>5</td>
-      <td>5</td>
-      <td>38 - 32</td>
-      <td>6</td>
-      <td>26</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>6</td>
@@ -196,63 +196,82 @@ Tabellene er sist oppdatert: 2025-08-30 22:05:37
     </tr>
     <tr>
       <td>9</td>
+      <td>Sandviken</td>
+      <td>18</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>15 - 14</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>10 - 21</td>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+      <td>25 - 35</td>
+      <td>-10</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>Notodden</td>
-      <td>17</td>
+      <td>18</td>
       <td>4</td>
       <td>1</td>
-      <td>3</td>
-      <td>11 - 12</td>
+      <td>4</td>
+      <td>11 - 13</td>
       <td>1</td>
       <td>5</td>
       <td>3</td>
       <td>9 - 20</td>
       <td>5</td>
       <td>6</td>
-      <td>6</td>
-      <td>20 - 32</td>
-      <td>-12</td>
+      <td>7</td>
+      <td>20 - 33</td>
+      <td>-13</td>
       <td>21</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>Brann  2</td>
-      <td>17</td>
+      <td>18</td>
       <td>4</td>
       <td>2</td>
       <td>3</td>
       <td>17 - 19</td>
       <td>2</td>
       <td>0</td>
-      <td>6</td>
-      <td>11 - 25</td>
+      <td>7</td>
+      <td>13 - 28</td>
       <td>6</td>
       <td>2</td>
-      <td>9</td>
-      <td>28 - 44</td>
-      <td>-16</td>
+      <td>10</td>
+      <td>30 - 47</td>
+      <td>-17</td>
       <td>20</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>Sandviken</td>
-      <td>17</td>
+      <td>12</td>
+      <td>Træff</td>
+      <td>18</td>
       <td>3</td>
-      <td>3</td>
-      <td>3</td>
-      <td>15 - 14</td>
-      <td>1</td>
-      <td>3</td>
+      <td>2</td>
       <td>4</td>
-      <td>9 - 21</td>
+      <td>14 - 14</td>
+      <td>1</td>
+      <td>4</td>
+      <td>4</td>
+      <td>6 - 13</td>
       <td>4</td>
       <td>6</td>
-      <td>7</td>
-      <td>24 - 35</td>
-      <td>-11</td>
+      <td>8</td>
+      <td>20 - 27</td>
+      <td>-7</td>
       <td>18</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>Vard Haugesund</td>
       <td>18</td>
       <td>1</td>
@@ -271,41 +290,22 @@ Tabellene er sist oppdatert: 2025-08-30 22:05:37
       <td>17</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>Træff</td>
-      <td>17</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>12 - 14</td>
-      <td>1</td>
-      <td>4</td>
-      <td>4</td>
-      <td>6 - 13</td>
-      <td>3</td>
-      <td>6</td>
-      <td>8</td>
-      <td>18 - 27</td>
-      <td>-9</td>
-      <td>15</td>
-    </tr>
-    <tr>
       <td>14</td>
       <td>Fløy-Flekkerøy</td>
-      <td>17</td>
+      <td>18</td>
       <td>2</td>
       <td>3</td>
       <td>4</td>
       <td>13 - 16</td>
       <td>0</td>
       <td>2</td>
-      <td>6</td>
-      <td>10 - 25</td>
+      <td>7</td>
+      <td>10 - 27</td>
       <td>2</td>
       <td>5</td>
-      <td>10</td>
-      <td>23 - 41</td>
-      <td>-18</td>
+      <td>11</td>
+      <td>23 - 43</td>
+      <td>-20</td>
       <td>11</td>
     </tr>
   </tbody>
@@ -341,8 +341,27 @@ Tabellene er sist oppdatert: 2025-08-30 22:05:37
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="row-highlight">
       <td>1</td>
+      <td>Arendal</td>
+      <td>15</td>
+      <td>5</td>
+      <td>1</td>
+      <td>1</td>
+      <td>25 - 5</td>
+      <td>6</td>
+      <td>1</td>
+      <td>1</td>
+      <td>26 - 4</td>
+      <td>11</td>
+      <td>2</td>
+      <td>2</td>
+      <td>51 - 9</td>
+      <td>42</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Strømsgodset</td>
       <td>14</td>
       <td>4</td>
@@ -359,25 +378,6 @@ Tabellene er sist oppdatert: 2025-08-30 22:05:37
       <td>43 - 7</td>
       <td>36</td>
       <td>35</td>
-    </tr>
-    <tr class="row-highlight">
-      <td>2</td>
-      <td>Arendal</td>
-      <td>14</td>
-      <td>4</td>
-      <td>1</td>
-      <td>1</td>
-      <td>21 - 5</td>
-      <td>6</td>
-      <td>1</td>
-      <td>1</td>
-      <td>26 - 4</td>
-      <td>10</td>
-      <td>2</td>
-      <td>2</td>
-      <td>47 - 9</td>
-      <td>38</td>
-      <td>32</td>
     </tr>
     <tr>
       <td>3</td>
@@ -420,59 +420,59 @@ Tabellene er sist oppdatert: 2025-08-30 22:05:37
     <tr>
       <td>5</td>
       <td>Flint</td>
-      <td>14</td>
+      <td>15</td>
       <td>4</td>
       <td>2</td>
       <td>1</td>
       <td>17 - 11</td>
       <td>4</td>
       <td>1</td>
-      <td>2</td>
-      <td>16 - 8</td>
+      <td>3</td>
+      <td>16 - 12</td>
       <td>8</td>
       <td>3</td>
-      <td>3</td>
-      <td>33 - 19</td>
-      <td>14</td>
+      <td>4</td>
+      <td>33 - 23</td>
+      <td>10</td>
       <td>27</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Hønefoss BK 2</td>
-      <td>14</td>
+      <td>15</td>
       <td>6</td>
       <td>0</td>
-      <td>1</td>
-      <td>20 - 5</td>
+      <td>2</td>
+      <td>21 - 8</td>
       <td>3</td>
       <td>0</td>
       <td>4</td>
       <td>10 - 28</td>
       <td>9</td>
       <td>0</td>
-      <td>5</td>
-      <td>30 - 33</td>
-      <td>-3</td>
+      <td>6</td>
+      <td>31 - 36</td>
+      <td>-5</td>
       <td>27</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Randesund</td>
-      <td>14</td>
+      <td>15</td>
       <td>6</td>
       <td>0</td>
       <td>3</td>
       <td>28 - 18</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td>4</td>
-      <td>3 - 12</td>
-      <td>7</td>
+      <td>6 - 13</td>
+      <td>8</td>
       <td>0</td>
       <td>7</td>
-      <td>31 - 30</td>
-      <td>1</td>
-      <td>21</td>
+      <td>34 - 31</td>
+      <td>3</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>8</td>
