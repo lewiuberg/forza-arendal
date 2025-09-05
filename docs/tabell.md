@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvorda
 
     Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2025-09-04 22:06:40
+Tabellene er sist oppdatert: 2025-09-05 22:06:19
 
 ## A-lag Herrer
 
@@ -400,6 +400,44 @@ Tabellene er sist oppdatert: 2025-09-04 22:06:40
     </tr>
     <tr>
       <td>4</td>
+      <td>Flint</td>
+      <td>16</td>
+      <td>4</td>
+      <td>3</td>
+      <td>1</td>
+      <td>20 - 14</td>
+      <td>4</td>
+      <td>1</td>
+      <td>3</td>
+      <td>16 - 12</td>
+      <td>8</td>
+      <td>4</td>
+      <td>4</td>
+      <td>36 - 26</td>
+      <td>10</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Hønefoss BK 2</td>
+      <td>16</td>
+      <td>6</td>
+      <td>0</td>
+      <td>2</td>
+      <td>21 - 8</td>
+      <td>3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>13 - 31</td>
+      <td>9</td>
+      <td>1</td>
+      <td>6</td>
+      <td>34 - 39</td>
+      <td>-5</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Snøgg</td>
       <td>15</td>
       <td>5</td>
@@ -415,44 +453,6 @@ Tabellene er sist oppdatert: 2025-09-04 22:06:40
       <td>4</td>
       <td>43 - 21</td>
       <td>22</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Flint</td>
-      <td>15</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>17 - 11</td>
-      <td>4</td>
-      <td>1</td>
-      <td>3</td>
-      <td>16 - 12</td>
-      <td>8</td>
-      <td>3</td>
-      <td>4</td>
-      <td>33 - 23</td>
-      <td>10</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Hønefoss BK 2</td>
-      <td>15</td>
-      <td>6</td>
-      <td>0</td>
-      <td>2</td>
-      <td>21 - 8</td>
-      <td>3</td>
-      <td>0</td>
-      <td>4</td>
-      <td>10 - 28</td>
-      <td>9</td>
-      <td>0</td>
-      <td>6</td>
-      <td>31 - 36</td>
-      <td>-5</td>
       <td>27</td>
     </tr>
     <tr>
