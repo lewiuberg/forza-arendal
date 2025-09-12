@@ -1,4 +1,8 @@
 authors:
+  official:
+    name: Forza Arendal
+    description: Offisiell kungjøring fra Forza Arendal
+    avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/forza-official.png
   mads:
     name: Mads Bech-Wilumstad
     description: Nest leder
