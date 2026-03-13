@@ -2,8 +2,8 @@ import os
 from datetime import UTC, datetime, timedelta
 
 # Paths to the input HTML files
-herrer_table_path = "docs/assets/tables/PostNord-ligaen_avd._1.html"
-kvinner_table_path = "docs/assets/tables/3.div_Kvinner_avd_Sør.html"
+herrer_table_path = "docs/assets/tables/2_divisjon_menn_avdeling_1.html"
+kvinner_table_path = "docs/assets/tables/3_div_kvinner_region_sør.html"
 
 # Path to the output Markdown file
 output_md_path = "docs/tabell.md"

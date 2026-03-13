@@ -6,7 +6,9 @@
   // -------------------------------- PYTEST ---------------------------------
   // "testExplorer.useNativeTesting": true,
   // --------------------------------- MISC ----------------------------------
-  "cSpell.words": ["arkiv", "Forza"]
+  "cSpell.words": ["arkiv", "Forza"],
+  "snyk.advanced.organization": "e0bae4ca-0611-4edc-8b8d-b9c977862562",
+  "snyk.advanced.autoSelectOrganization": true
   // TODO: is there a better way to fix config types?
   // "python.analysis.typeCheckingMode": "off"
 }

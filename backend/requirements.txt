@@ -1,5 +1,6 @@
 # Core dependencies
 beautifulsoup4>=4.13.4
+requests>=2.31.0
 
 # Development dependencies
 ruff>=0.9.4
