@@ -134,6 +134,12 @@ extra:
     - icon: fontawesome/brands/stack-overflow
       link: https://stackoverflow.com/users/10685529/lewi-uberg
       name: Author on Stack Overflow
+    - icon: fontawesome/brands/spotify
+      link: https://open.spotify.com/show/0h9iyMWJYEY1QtMs10xMS3
+      name: Author on Spotify
+    - icon: fontawesome/brands/apple
+      link: https://podcasts.apple.com/no/podcast/arendal-p%C3%A5-overtid/id1875368906?l=nb
+      name: Author on Apple Podcasts
   analytics:
     provider: google
     property: G-X5TVX1RNG8
@@ -179,4 +185,5 @@ nav:
   - Butikk: butikk.md
   - Nyheter:
       - blog/index.md
+  - Podcast: podcast.md
   - Facebook: https://www.facebook.com/forzaarendal/
