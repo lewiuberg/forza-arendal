@@ -36,11 +36,11 @@ author: "Lewi Lie Uberg"
 
 # Tabell
 
-Her vil du finne informasjon om tabellen i PostNord-ligaen avdeling 2, og hvordan Arendal Fotball ligger an i forhold til de andre lagene i ligaen.
+Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div kvinner region sør, og hvordan Arendal Fotball ligger an i forhold til de andre lagene i ligaen.
 
 ??? forza "Informasjon"
 
-    Denne tabellen er hentet fra [PostNord-ligaen avdeling 2](https://www.arendalfotball.no/tabell) og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
+    Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
 Tabellene er sist oppdatert: {timestamp}
 

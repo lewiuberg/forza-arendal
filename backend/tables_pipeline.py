@@ -1,7 +1,7 @@
 from pathlib import Path
 
-from backend.convert import convert_table_to_html
-from backend.scrape import scrape_tables
+from convert import convert_table_to_html
+from scrape import scrape_tables
 
 urls = [
     [

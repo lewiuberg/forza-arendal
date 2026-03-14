@@ -28,7 +28,7 @@ Forza Arendal er supporter klubben for Arendal Fotball. Her finner du informasjo
     "./assets/images/arkiv/16.jpg",
     "./assets/images/arkiv/20.jpg",
     "./assets/images/arkiv/14.jpg",
-    "./assets/images/arkiv/107.jpg",
+    "./assets/images/arkiv/121.jpg",
   ];
 
   // Full list of images
@@ -140,6 +140,22 @@ Forza Arendal er supporter klubben for Arendal Fotball. Her finner du informasjo
     "./assets/images/arkiv/103.jpg",
     "./assets/images/arkiv/104.jpg",
     "./assets/images/arkiv/105.jpg",
+    "./assets/images/arkiv/106.jpg",
+    "./assets/images/arkiv/107.jpg",
+    "./assets/images/arkiv/108.jpg",
+    "./assets/images/arkiv/109.jpg",
+    "./assets/images/arkiv/110.jpg",
+    "./assets/images/arkiv/111.jpg",
+    "./assets/images/arkiv/112.jpg",
+    "./assets/images/arkiv/113.jpg",
+    "./assets/images/arkiv/114.jpg",
+    "./assets/images/arkiv/115.jpg",
+    "./assets/images/arkiv/116.jpg",
+    "./assets/images/arkiv/117.jpg",
+    "./assets/images/arkiv/118.jpg",
+    "./assets/images/arkiv/119.jpg",
+    "./assets/images/arkiv/120.jpg",
+    "./assets/images/arkiv/121.jpg",
     // Add more image paths as needed
   ];
 
