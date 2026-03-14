@@ -37,27 +37,32 @@ Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige s
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Rune Fone</td>
-      <td><a href="tel:+4790986083">+47 909 86 083</a></td>
-    </tr>
-    <tr>
-      <td>Nesteder</td>
       <td>Mads Bech-Willumstad</td>
       <td><a href="tel:+4794791442">+47 947 91 442</a></td>
     </tr>
     <tr>
-      <td>Arrangementansvarlig</td>
-      <td>Kathrine Josefsen [^1]</td>
+      <td>Sosialmedia</td>
+      <td>Lewi Lie Uberg</td>
+      <td><a href="tel:+4795002946">+47 950 02 946</td>
+    </tr>
+    <tr>
+      <td>Arrangement</td>
+      <td>Kathrine Josefsen</td>
       <td><a href="tel:+4795005464">+47 950 05 464</a></td>
     </tr>
     <tr>
-      <td>Innkjøp</td>
-      <td>Sondre Iuell Frydenlund [^1]</td>
+      <td>SLO og materialforvalter</td>
+      <td>Rune Fone</td>
+      <td><a href="tel:+4790986083">+47 909 86 083</a></td>
+    </tr>
+    <tr>
+      <td>Økonomi</td>
+      <td>Jesper Sørensen</td>
       <td>+47 xxx xx xxx</td>
     </tr>
   </tbody>
 </table>
 
-For generelle henvendelser, vennligst kontakt oss på e-post: <a href="mailto:kontakt@forza-arendal.no">kontakt@forza-arendal.no</a>.
+??? forza "Kontakt"
 
-[^1]: Styremedlem
+    For generelle henvendelser, vennligst kontakt oss på e-post: <a href="mailto:kontakt@forza-arendal.no">kontakt@forza-arendal.no</a>.
