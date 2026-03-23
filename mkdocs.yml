@@ -182,6 +182,7 @@ nav:
   # - Tabell: https://www.arendalfotball.no/tabell
   - Tabell: tabell.md
   - Om oss: om_oss.md
+  - Sanger: sanger.md
   - Butikk: butikk.md
   - Nyheter:
       - blog/index.md

@@ -19,13 +19,6 @@ I dag er Forza kjent for sitt engasjement, sin kreativitet og sin dedikasjon til
 Styret i Forza Arendal er ansvarlig for den daglige driften av klubben. Styret har ansvar for å planlegge og gjennomføre arrangementer, samt å ivareta klubbens interesser.
 Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige styremedlemmene er oppnevnt av styret selv. Styret har møter jevnlig for å diskutere klubbens drift og fremtidige planer.
 
-<!-- | Rolle                | Navn                         | Telefon        | E-post                       |
-| -------------------- | ---------------------------- | -------------- | ---------------------------- |
-| Leder                | Rune Fone                    | +47 909 86 083 | mittgym@hotmail.com          |
-| Nesteder             | Mads Bech-Willumstad         | +47 947 91 442 | mads_willumstad@hotmail.com  |
-| Arrangementansvarlig | Kathrine Josefsen [^1]       | +47 999 99 999 | arrangement@forza-arendal.no |
-| Innkjøp              | Sondre Iuell Frydenlund [^1] | +47 999 99 999 | innkjop@forza-arendal.no     | -->
-
 <table>
   <thead>
     <tr class="row-highlight">
@@ -43,7 +36,7 @@ Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige s
     <tr>
       <td>Sosialmedia</td>
       <td>Lewi Lie Uberg</td>
-      <td><a href="tel:+4795002946">+47 950 02 946</td>
+      <td><a href="tel:+4795002946">+47 950 02 946</a></td>
     </tr>
     <tr>
       <td>Arrangement</td>
@@ -58,7 +51,7 @@ Styreleder og nestleder er valgt av medlemmene på årsmøtet, mens de øvrige s
     <tr>
       <td>Økonomi</td>
       <td>Jesper Sørensen</td>
-      <td>+47 xxx xx xxx</td>
+      <td><a href="tel:+4793854280">+47 938 54 280</a></td>
     </tr>
   </tbody>
 </table>
