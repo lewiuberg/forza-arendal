@@ -9,8 +9,12 @@ authors:
     avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/mads.png
   lewi:
     name: Lewi Uberg
-    description: Fullstack utvikler, og supporter
+    description: Sosiale medier og web
     avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/lewi.JPG
+  lene_victoria:
+    name: Lene Victoria
+    description: Supporter og skribent
+    avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/lene-victoria.JPG
   mads_lewi:
     name: Mads Bech-Wilumstad & Lewi Uberg
     description: Samarbeid
