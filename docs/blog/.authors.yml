@@ -5,17 +5,21 @@ authors:
     avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/forza-official.png
   mads:
     name: Mads Bech-Wilumstad
-    description: Nest leder
+    description: Leder Forza Arendal
     avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/mads.png
   lewi:
     name: Lewi Uberg
-    description: Sosiale medier og web
+    description: Sosiale medier, web og styremedlem
     avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/lewi.JPG
+  katrine:
+    name: Katrine Josefsen
+    description: Supporter og skribent
+    avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/katrine.png
   lene_victoria:
     name: Lene Victoria
     description: Supporter og skribent
     avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/lene-victoria.JPG
   mads_lewi:
     name: Mads Bech-Wilumstad & Lewi Uberg
-    description: Samarbeid
+    description: Mads og Lewi
     avatar: https://raw.githubusercontent.com/lewiuberg/forza-arendal/refs/heads/master/docs/assets/images/blog/profile/mads_lewi.png
