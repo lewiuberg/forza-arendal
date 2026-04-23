@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-04-22 22:18:23
+Tabellene er sist oppdatert: 2026-04-23 22:19:14
 
 ## A-lag Herrer
 
@@ -137,8 +137,19 @@ Tabellene er sist oppdatert: 2026-04-22 22:18:23
     </tr>
   </thead>
   <tbody>
-    <tr class="row-highlight">
+    <tr>
       <td>1</td>
+      <td>Pors</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>11 - 3</td>
+      <td>8</td>
+      <td>7</td>
+    </tr>
+    <tr class="row-highlight">
+      <td>2</td>
       <td>Arendal Kvinner</td>
       <td>2</td>
       <td>2</td>
@@ -149,7 +160,7 @@ Tabellene er sist oppdatert: 2026-04-22 22:18:23
       <td>6</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>Odds Ballklubb 2</td>
       <td>2</td>
       <td>1</td>
@@ -157,17 +168,6 @@ Tabellene er sist oppdatert: 2026-04-22 22:18:23
       <td>0</td>
       <td>9 - 3</td>
       <td>6</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Pors</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>7 - 2</td>
-      <td>5</td>
       <td>4</td>
     </tr>
     <tr>
