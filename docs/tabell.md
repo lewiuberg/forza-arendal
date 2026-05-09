@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-05-08 22:20:37
+Tabellene er sist oppdatert: 2026-05-09 22:13:04
 
 ## A-lag Herrer
 
@@ -42,6 +42,17 @@ Tabellene er sist oppdatert: 2026-05-08 22:20:37
     </tr>
     <tr>
       <td>2</td>
+      <td>Kvik Halden</td>
+      <td>6</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>8 - 5</td>
+      <td>3</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Brattvåg</td>
       <td>5</td>
       <td>4</td>
@@ -49,17 +60,6 @@ Tabellene er sist oppdatert: 2026-05-08 22:20:37
       <td>1</td>
       <td>9 - 3</td>
       <td>6</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Kvik Halden</td>
-      <td>5</td>
-      <td>4</td>
-      <td>0</td>
-      <td>1</td>
-      <td>7 - 4</td>
-      <td>3</td>
       <td>12</td>
     </tr>
     <tr>
@@ -86,6 +86,17 @@ Tabellene er sist oppdatert: 2026-05-08 22:20:37
     </tr>
     <tr>
       <td>6</td>
+      <td>Notodden</td>
+      <td>6</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>10 - 6</td>
+      <td>4</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>Træff</td>
       <td>5</td>
       <td>2</td>
@@ -96,25 +107,14 @@ Tabellene er sist oppdatert: 2026-05-08 22:20:37
       <td>8</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>Notodden</td>
-      <td>5</td>
-      <td>2</td>
-      <td>1</td>
-      <td>2</td>
-      <td>9 - 5</td>
-      <td>4</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>10</td>
       <td>Lysekloster</td>
-      <td>5</td>
+      <td>6</td>
       <td>1</td>
       <td>3</td>
-      <td>1</td>
-      <td>9 - 8</td>
-      <td>1</td>
+      <td>2</td>
+      <td>10 - 10</td>
+      <td>0</td>
       <td>6</td>
     </tr>
   </tbody>
@@ -140,27 +140,38 @@ Tabellene er sist oppdatert: 2026-05-08 22:20:37
     <tr class="row-highlight">
       <td>1</td>
       <td>Arendal Kvinner</td>
-      <td>4</td>
-      <td>4</td>
+      <td>5</td>
+      <td>5</td>
       <td>0</td>
       <td>0</td>
-      <td>14 - 4</td>
-      <td>10</td>
+      <td>16 - 4</td>
       <td>12</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Pors</td>
-      <td>4</td>
+      <td>5</td>
       <td>3</td>
       <td>1</td>
-      <td>0</td>
-      <td>13 - 4</td>
-      <td>9</td>
+      <td>1</td>
+      <td>13 - 5</td>
+      <td>8</td>
       <td>10</td>
     </tr>
     <tr>
       <td>3</td>
+      <td>Snøgg</td>
+      <td>5</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>12 - 4</td>
+      <td>8</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Fossum /Storm 1</td>
       <td>4</td>
       <td>2</td>
@@ -171,29 +182,7 @@ Tabellene er sist oppdatert: 2026-05-08 22:20:37
       <td>8</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Snøgg</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>11 - 4</td>
-      <td>7</td>
-      <td>7</td>
-    </tr>
-    <tr>
       <td>5</td>
-      <td>Hei</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>10 - 9</td>
-      <td>1</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>6</td>
       <td>Randesund</td>
       <td>4</td>
       <td>2</td>
