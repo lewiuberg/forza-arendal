@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-05-18 22:30:29
+Tabellene er sist oppdatert: 2026-05-19 22:32:26
 
 ## A-lag Herrer
 
@@ -150,6 +150,17 @@ Tabellene er sist oppdatert: 2026-05-18 22:30:29
     </tr>
     <tr>
       <td>3</td>
+      <td>Odds Ballklubb 2</td>
+      <td>6</td>
+      <td>3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>19 - 9</td>
+      <td>10</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Pors</td>
       <td>5</td>
       <td>3</td>
@@ -160,7 +171,7 @@ Tabellene er sist oppdatert: 2026-05-18 22:30:29
       <td>10</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Snøgg</td>
       <td>5</td>
       <td>3</td>
@@ -171,7 +182,7 @@ Tabellene er sist oppdatert: 2026-05-18 22:30:29
       <td>10</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>Randesund</td>
       <td>5</td>
       <td>2</td>
@@ -180,17 +191,6 @@ Tabellene er sist oppdatert: 2026-05-18 22:30:29
       <td>8 - 8</td>
       <td>0</td>
       <td>8</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Odds Ballklubb 2</td>
-      <td>5</td>
-      <td>2</td>
-      <td>1</td>
-      <td>2</td>
-      <td>17 - 9</td>
-      <td>8</td>
-      <td>7</td>
     </tr>
   </tbody>
 </table>
