@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-06-20 22:26:48
+Tabellene er sist oppdatert: 2026-06-21 22:30:03
 
 ## A-lag Herrer
 
@@ -32,23 +32,23 @@ Tabellene er sist oppdatert: 2026-06-20 22:26:48
     <tr>
       <td>1</td>
       <td>Jerv</td>
-      <td>10</td>
-      <td>8</td>
+      <td>11</td>
+      <td>9</td>
       <td>2</td>
       <td>0</td>
-      <td>20 - 8</td>
-      <td>12</td>
-      <td>26</td>
+      <td>22 - 9</td>
+      <td>13</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Brattvåg</td>
-      <td>10</td>
+      <td>11</td>
       <td>8</td>
       <td>0</td>
-      <td>2</td>
-      <td>20 - 6</td>
-      <td>14</td>
+      <td>3</td>
+      <td>21 - 8</td>
+      <td>13</td>
       <td>24</td>
     </tr>
     <tr>
@@ -109,12 +109,12 @@ Tabellene er sist oppdatert: 2026-06-20 22:26:48
     <tr>
       <td>9</td>
       <td>Træff</td>
-      <td>10</td>
+      <td>11</td>
       <td>3</td>
       <td>4</td>
-      <td>3</td>
-      <td>19 - 17</td>
-      <td>2</td>
+      <td>4</td>
+      <td>20 - 20</td>
+      <td>0</td>
       <td>13</td>
     </tr>
   </tbody>
@@ -184,12 +184,12 @@ Tabellene er sist oppdatert: 2026-06-20 22:26:48
     <tr>
       <td>5</td>
       <td>Randesund</td>
-      <td>9</td>
+      <td>10</td>
       <td>4</td>
       <td>3</td>
-      <td>2</td>
-      <td>23 - 13</td>
-      <td>10</td>
+      <td>3</td>
+      <td>24 - 15</td>
+      <td>9</td>
       <td>15</td>
     </tr>
     <tr>
