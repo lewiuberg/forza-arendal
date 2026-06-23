@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-06-22 22:59:31
+Tabellene er sist oppdatert: 2026-06-23 22:41:31
 
 ## A-lag Herrer
 
@@ -148,8 +148,19 @@ Tabellene er sist oppdatert: 2026-06-22 22:59:31
       <td>25</td>
       <td>25</td>
     </tr>
-    <tr class="row-highlight">
+    <tr>
       <td>2</td>
+      <td>Snøgg</td>
+      <td>10</td>
+      <td>8</td>
+      <td>1</td>
+      <td>1</td>
+      <td>31 - 9</td>
+      <td>22</td>
+      <td>25</td>
+    </tr>
+    <tr class="row-highlight">
+      <td>3</td>
       <td>Arendal Kvinner</td>
       <td>10</td>
       <td>8</td>
@@ -158,17 +169,6 @@ Tabellene er sist oppdatert: 2026-06-22 22:59:31
       <td>31 - 12</td>
       <td>19</td>
       <td>25</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Snøgg</td>
-      <td>9</td>
-      <td>7</td>
-      <td>1</td>
-      <td>1</td>
-      <td>26 - 9</td>
-      <td>17</td>
-      <td>22</td>
     </tr>
     <tr>
       <td>4</td>
@@ -195,12 +195,12 @@ Tabellene er sist oppdatert: 2026-06-22 22:59:31
     <tr>
       <td>6</td>
       <td>Fossum /Storm 1</td>
-      <td>9</td>
+      <td>10</td>
       <td>4</td>
       <td>3</td>
+      <td>3</td>
+      <td>20 - 18</td>
       <td>2</td>
-      <td>20 - 13</td>
-      <td>7</td>
       <td>15</td>
     </tr>
   </tbody>
