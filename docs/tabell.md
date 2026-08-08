@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-08-07 22:30:33
+Tabellene er sist oppdatert: 2026-08-08 22:18:01
 
 ## A-lag Herrer
 
@@ -32,27 +32,49 @@ Tabellene er sist oppdatert: 2026-08-07 22:30:33
     <tr>
       <td>1</td>
       <td>Jerv</td>
-      <td>14</td>
-      <td>10</td>
+      <td>15</td>
+      <td>11</td>
       <td>2</td>
       <td>2</td>
-      <td>28 - 15</td>
-      <td>13</td>
-      <td>32</td>
+      <td>32 - 15</td>
+      <td>17</td>
+      <td>35</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Kvik Halden</td>
-      <td>14</td>
+      <td>Mjøndalen</td>
+      <td>15</td>
+      <td>9</td>
+      <td>2</td>
+      <td>4</td>
+      <td>28 - 19</td>
+      <td>9</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Notodden</td>
+      <td>15</td>
       <td>8</td>
       <td>3</td>
-      <td>3</td>
-      <td>27 - 18</td>
-      <td>9</td>
+      <td>4</td>
+      <td>22 - 11</td>
+      <td>11</td>
       <td>27</td>
     </tr>
     <tr>
+      <td>4</td>
+      <td>Kvik Halden</td>
+      <td>15</td>
+      <td>8</td>
       <td>3</td>
+      <td>4</td>
+      <td>27 - 19</td>
+      <td>8</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>Brattvåg</td>
       <td>14</td>
       <td>8</td>
@@ -63,40 +85,29 @@ Tabellene er sist oppdatert: 2026-08-07 22:30:33
       <td>26</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Mjøndalen</td>
-      <td>14</td>
-      <td>8</td>
-      <td>2</td>
-      <td>4</td>
-      <td>27 - 19</td>
-      <td>8</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>6</td>
       <td>Bjarg</td>
-      <td>14</td>
+      <td>15</td>
       <td>8</td>
       <td>1</td>
-      <td>5</td>
-      <td>25 - 20</td>
-      <td>5</td>
+      <td>6</td>
+      <td>26 - 23</td>
+      <td>3</td>
       <td>25</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>Notodden</td>
-      <td>14</td>
+      <td>7</td>
+      <td>Sotra</td>
+      <td>15</td>
       <td>7</td>
       <td>3</td>
-      <td>4</td>
-      <td>21 - 11</td>
-      <td>10</td>
+      <td>5</td>
+      <td>30 - 15</td>
+      <td>15</td>
       <td>24</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>Træff</td>
       <td>14</td>
       <td>6</td>
@@ -105,17 +116,6 @@ Tabellene er sist oppdatert: 2026-08-07 22:30:33
       <td>27 - 23</td>
       <td>4</td>
       <td>22</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Sotra</td>
-      <td>14</td>
-      <td>6</td>
-      <td>3</td>
-      <td>5</td>
-      <td>27 - 14</td>
-      <td>13</td>
-      <td>21</td>
     </tr>
   </tbody>
 </table>
@@ -140,13 +140,13 @@ Tabellene er sist oppdatert: 2026-08-07 22:30:33
     <tr>
       <td>1</td>
       <td>Snøgg</td>
-      <td>10</td>
-      <td>8</td>
+      <td>11</td>
+      <td>9</td>
       <td>1</td>
       <td>1</td>
-      <td>33 - 10</td>
-      <td>23</td>
-      <td>25</td>
+      <td>37 - 10</td>
+      <td>27</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>2</td>
@@ -173,12 +173,12 @@ Tabellene er sist oppdatert: 2026-08-07 22:30:33
     <tr>
       <td>4</td>
       <td>Odds Ballklubb 2</td>
-      <td>10</td>
+      <td>11</td>
       <td>6</td>
       <td>2</td>
-      <td>2</td>
-      <td>30 - 14</td>
-      <td>16</td>
+      <td>3</td>
+      <td>30 - 18</td>
+      <td>12</td>
       <td>20</td>
     </tr>
     <tr>
