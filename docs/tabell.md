@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-08-14 22:22:20
+Tabellene er sist oppdatert: 2026-08-15 22:12:05
 
 ## A-lag Herrer
 
@@ -43,44 +43,44 @@ Tabellene er sist oppdatert: 2026-08-14 22:22:20
     <tr>
       <td>2</td>
       <td>Brattvåg</td>
-      <td>15</td>
-      <td>9</td>
+      <td>16</td>
+      <td>10</td>
       <td>2</td>
       <td>4</td>
-      <td>29 - 16</td>
-      <td>13</td>
-      <td>29</td>
+      <td>32 - 16</td>
+      <td>16</td>
+      <td>32</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Mjøndalen</td>
-      <td>15</td>
-      <td>9</td>
+      <td>16</td>
+      <td>10</td>
       <td>2</td>
+      <td>4</td>
+      <td>30 - 20</td>
+      <td>10</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Kvik Halden</td>
+      <td>16</td>
+      <td>9</td>
+      <td>3</td>
       <td>4</td>
       <td>28 - 19</td>
       <td>9</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Notodden</td>
-      <td>15</td>
-      <td>8</td>
-      <td>3</td>
-      <td>4</td>
-      <td>22 - 11</td>
-      <td>11</td>
-      <td>27</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Kvik Halden</td>
-      <td>15</td>
+      <td>Notodden</td>
+      <td>16</td>
       <td>8</td>
       <td>3</td>
-      <td>4</td>
-      <td>27 - 19</td>
+      <td>5</td>
+      <td>22 - 14</td>
       <td>8</td>
       <td>27</td>
     </tr>
@@ -140,12 +140,12 @@ Tabellene er sist oppdatert: 2026-08-14 22:22:20
     <tr>
       <td>1</td>
       <td>Snøgg</td>
-      <td>11</td>
+      <td>12</td>
       <td>9</td>
       <td>1</td>
-      <td>1</td>
-      <td>37 - 10</td>
-      <td>27</td>
+      <td>2</td>
+      <td>37 - 11</td>
+      <td>26</td>
       <td>28</td>
     </tr>
     <tr>
@@ -162,13 +162,13 @@ Tabellene er sist oppdatert: 2026-08-14 22:22:20
     <tr class="row-highlight">
       <td>3</td>
       <td>Arendal Kvinner</td>
-      <td>10</td>
-      <td>7</td>
+      <td>11</td>
+      <td>8</td>
       <td>1</td>
       <td>2</td>
-      <td>27 - 14</td>
-      <td>13</td>
-      <td>22</td>
+      <td>28 - 14</td>
+      <td>14</td>
+      <td>25</td>
     </tr>
     <tr>
       <td>4</td>
@@ -184,12 +184,12 @@ Tabellene er sist oppdatert: 2026-08-14 22:22:20
     <tr>
       <td>5</td>
       <td>Randesund</td>
-      <td>11</td>
+      <td>12</td>
       <td>4</td>
       <td>3</td>
-      <td>4</td>
-      <td>19 - 17</td>
-      <td>2</td>
+      <td>5</td>
+      <td>21 - 20</td>
+      <td>1</td>
       <td>15</td>
     </tr>
   </tbody>
