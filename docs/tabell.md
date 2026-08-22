@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-08-21 22:15:03
+Tabellene er sist oppdatert: 2026-08-22 22:12:20
 
 ## A-lag Herrer
 
@@ -162,12 +162,12 @@ Tabellene er sist oppdatert: 2026-08-21 22:15:03
     <tr class="row-highlight">
       <td>3</td>
       <td>Arendal Kvinner</td>
-      <td>11</td>
+      <td>12</td>
       <td>8</td>
       <td>1</td>
-      <td>2</td>
-      <td>28 - 14</td>
-      <td>14</td>
+      <td>3</td>
+      <td>31 - 20</td>
+      <td>11</td>
       <td>25</td>
     </tr>
     <tr>
