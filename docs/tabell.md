@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-09-12 23:49:57
+Tabellene er sist oppdatert: 2026-09-13 23:57:03
 
 ## A-lag Herrer
 
@@ -32,13 +32,13 @@ Tabellene er sist oppdatert: 2026-09-12 23:49:57
     <tr>
       <td>1</td>
       <td>Jerv</td>
-      <td>18</td>
-      <td>13</td>
+      <td>19</td>
+      <td>14</td>
       <td>3</td>
       <td>2</td>
-      <td>38 - 17</td>
-      <td>21</td>
-      <td>42</td>
+      <td>41 - 18</td>
+      <td>23</td>
+      <td>45</td>
     </tr>
     <tr>
       <td>2</td>
@@ -54,12 +54,12 @@ Tabellene er sist oppdatert: 2026-09-12 23:49:57
     <tr>
       <td>3</td>
       <td>Brattvåg</td>
-      <td>18</td>
+      <td>19</td>
       <td>11</td>
       <td>3</td>
-      <td>4</td>
-      <td>37 - 20</td>
-      <td>17</td>
+      <td>5</td>
+      <td>38 - 23</td>
+      <td>15</td>
       <td>36</td>
     </tr>
     <tr>
@@ -87,35 +87,35 @@ Tabellene er sist oppdatert: 2026-09-12 23:49:57
     <tr>
       <td>6</td>
       <td>Notodden</td>
-      <td>18</td>
+      <td>19</td>
       <td>9</td>
-      <td>4</td>
       <td>5</td>
-      <td>25 - 14</td>
+      <td>5</td>
+      <td>26 - 15</td>
       <td>11</td>
-      <td>31</td>
+      <td>32</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Kvik Halden</td>
-      <td>18</td>
+      <td>19</td>
       <td>9</td>
       <td>4</td>
-      <td>5</td>
-      <td>28 - 20</td>
-      <td>8</td>
+      <td>6</td>
+      <td>28 - 22</td>
+      <td>6</td>
       <td>31</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Træff</td>
-      <td>18</td>
+      <td>19</td>
       <td>8</td>
+      <td>6</td>
       <td>5</td>
+      <td>35 - 30</td>
       <td>5</td>
-      <td>34 - 29</td>
-      <td>5</td>
-      <td>29</td>
+      <td>30</td>
     </tr>
   </tbody>
 </table>
