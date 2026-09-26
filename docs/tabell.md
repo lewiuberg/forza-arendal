@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-09-26 00:58:30
+Tabellene er sist oppdatert: 2026-09-27 00:16:15
 
 ## A-lag Herrer
 
@@ -32,16 +32,38 @@ Tabellene er sist oppdatert: 2026-09-26 00:58:30
     <tr>
       <td>1</td>
       <td>Jerv</td>
-      <td>20</td>
-      <td>15</td>
+      <td>21</td>
+      <td>16</td>
       <td>3</td>
       <td>2</td>
-      <td>43 - 18</td>
-      <td>25</td>
-      <td>48</td>
+      <td>44 - 18</td>
+      <td>26</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>2</td>
+      <td>Mjøndalen</td>
+      <td>21</td>
+      <td>13</td>
+      <td>2</td>
+      <td>6</td>
+      <td>39 - 28</td>
+      <td>11</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Sotra</td>
+      <td>21</td>
+      <td>12</td>
+      <td>3</td>
+      <td>6</td>
+      <td>45 - 22</td>
+      <td>23</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Brattvåg</td>
       <td>20</td>
       <td>12</td>
@@ -52,7 +74,7 @@ Tabellene er sist oppdatert: 2026-09-26 00:58:30
       <td>39</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>Bjarg</td>
       <td>20</td>
       <td>12</td>
@@ -63,36 +85,14 @@ Tabellene er sist oppdatert: 2026-09-26 00:58:30
       <td>38</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Mjøndalen</td>
-      <td>20</td>
-      <td>12</td>
-      <td>2</td>
-      <td>6</td>
-      <td>36 - 27</td>
-      <td>9</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Sotra</td>
-      <td>20</td>
-      <td>11</td>
-      <td>3</td>
-      <td>6</td>
-      <td>42 - 20</td>
-      <td>22</td>
-      <td>36</td>
-    </tr>
-    <tr>
       <td>6</td>
       <td>Notodden</td>
-      <td>20</td>
+      <td>21</td>
       <td>10</td>
       <td>5</td>
-      <td>5</td>
-      <td>30 - 16</td>
-      <td>14</td>
+      <td>6</td>
+      <td>30 - 17</td>
+      <td>13</td>
       <td>35</td>
     </tr>
     <tr>
