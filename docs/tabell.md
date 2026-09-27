@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-09-27 00:16:15
+Tabellene er sist oppdatert: 2026-09-28 00:42:12
 
 ## A-lag Herrer
 
@@ -42,6 +42,28 @@ Tabellene er sist oppdatert: 2026-09-27 00:16:15
     </tr>
     <tr>
       <td>2</td>
+      <td>Brattvåg</td>
+      <td>21</td>
+      <td>13</td>
+      <td>3</td>
+      <td>5</td>
+      <td>44 - 26</td>
+      <td>18</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Bjarg</td>
+      <td>21</td>
+      <td>13</td>
+      <td>2</td>
+      <td>6</td>
+      <td>44 - 26</td>
+      <td>18</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Mjøndalen</td>
       <td>21</td>
       <td>13</td>
@@ -52,7 +74,7 @@ Tabellene er sist oppdatert: 2026-09-27 00:16:15
       <td>41</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>Sotra</td>
       <td>21</td>
       <td>12</td>
@@ -61,28 +83,6 @@ Tabellene er sist oppdatert: 2026-09-27 00:16:15
       <td>45 - 22</td>
       <td>23</td>
       <td>39</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Brattvåg</td>
-      <td>20</td>
-      <td>12</td>
-      <td>3</td>
-      <td>5</td>
-      <td>41 - 24</td>
-      <td>17</td>
-      <td>39</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Bjarg</td>
-      <td>20</td>
-      <td>12</td>
-      <td>2</td>
-      <td>6</td>
-      <td>42 - 26</td>
-      <td>16</td>
-      <td>38</td>
     </tr>
     <tr>
       <td>6</td>
@@ -98,24 +98,13 @@ Tabellene er sist oppdatert: 2026-09-27 00:16:15
     <tr>
       <td>7</td>
       <td>Kvik Halden</td>
-      <td>20</td>
-      <td>9</td>
+      <td>21</td>
+      <td>10</td>
       <td>4</td>
       <td>7</td>
-      <td>28 - 24</td>
-      <td>4</td>
-      <td>31</td>
-    </tr>
-    <tr>
+      <td>32 - 24</td>
       <td>8</td>
-      <td>Træff</td>
-      <td>20</td>
-      <td>8</td>
-      <td>6</td>
-      <td>6</td>
-      <td>36 - 36</td>
-      <td>0</td>
-      <td>30</td>
+      <td>34</td>
     </tr>
   </tbody>
 </table>
@@ -148,8 +137,19 @@ Tabellene er sist oppdatert: 2026-09-27 00:16:15
       <td>43</td>
       <td>40</td>
     </tr>
-    <tr>
+    <tr class="row-highlight">
       <td>2</td>
+      <td>Arendal Kvinner</td>
+      <td>16</td>
+      <td>12</td>
+      <td>1</td>
+      <td>3</td>
+      <td>47 - 23</td>
+      <td>24</td>
+      <td>37</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Odds Ballklubb 2</td>
       <td>16</td>
       <td>11</td>
@@ -159,26 +159,15 @@ Tabellene er sist oppdatert: 2026-09-27 00:16:15
       <td>30</td>
       <td>35</td>
     </tr>
-    <tr class="row-highlight">
-      <td>3</td>
-      <td>Arendal Kvinner</td>
-      <td>15</td>
-      <td>11</td>
-      <td>1</td>
-      <td>3</td>
-      <td>44 - 22</td>
-      <td>22</td>
-      <td>34</td>
-    </tr>
     <tr>
       <td>4</td>
       <td>Pors</td>
-      <td>17</td>
+      <td>18</td>
       <td>10</td>
       <td>2</td>
-      <td>5</td>
-      <td>41 - 22</td>
-      <td>19</td>
+      <td>6</td>
+      <td>42 - 25</td>
+      <td>17</td>
       <td>32</td>
     </tr>
   </tbody>
