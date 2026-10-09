@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-10-08 01:56:14
+Tabellene er sist oppdatert: 2026-10-09 02:03:29
 
 ## A-lag Herrer
 
@@ -130,12 +130,12 @@ Tabellene er sist oppdatert: 2026-10-08 01:56:14
       <td>1</td>
       <td>Snøgg</td>
       <td>17</td>
-      <td>13</td>
+      <td>14</td>
       <td>1</td>
-      <td>3</td>
-      <td>59 - 16</td>
+      <td>2</td>
+      <td>62 - 13</td>
+      <td>49</td>
       <td>43</td>
-      <td>40</td>
     </tr>
     <tr>
       <td>2</td>
