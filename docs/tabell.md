@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-10-17 23:53:01
+Tabellene er sist oppdatert: 2026-10-19 00:04:23
 
 ## A-lag Herrer
 
@@ -32,16 +32,27 @@ Tabellene er sist oppdatert: 2026-10-17 23:53:01
     <tr>
       <td>1</td>
       <td>Jerv</td>
-      <td>23</td>
-      <td>16</td>
+      <td>24</td>
+      <td>17</td>
       <td>5</td>
       <td>2</td>
-      <td>49 - 23</td>
-      <td>26</td>
-      <td>53</td>
+      <td>53 - 26</td>
+      <td>27</td>
+      <td>56</td>
     </tr>
     <tr>
       <td>2</td>
+      <td>Bjarg</td>
+      <td>24</td>
+      <td>16</td>
+      <td>2</td>
+      <td>6</td>
+      <td>56 - 31</td>
+      <td>25</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Mjøndalen</td>
       <td>24</td>
       <td>16</td>
@@ -52,36 +63,25 @@ Tabellene er sist oppdatert: 2026-10-17 23:53:01
       <td>50</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Brattvåg</td>
-      <td>23</td>
-      <td>15</td>
-      <td>3</td>
-      <td>5</td>
-      <td>50 - 29</td>
-      <td>21</td>
-      <td>48</td>
-    </tr>
-    <tr>
       <td>4</td>
-      <td>Bjarg</td>
-      <td>23</td>
+      <td>Brattvåg</td>
+      <td>24</td>
       <td>15</td>
-      <td>2</td>
+      <td>3</td>
       <td>6</td>
-      <td>52 - 30</td>
-      <td>22</td>
-      <td>47</td>
+      <td>51 - 33</td>
+      <td>18</td>
+      <td>48</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Sotra</td>
-      <td>23</td>
+      <td>24</td>
       <td>13</td>
       <td>3</td>
-      <td>7</td>
-      <td>50 - 25</td>
-      <td>25</td>
+      <td>8</td>
+      <td>53 - 29</td>
+      <td>24</td>
       <td>42</td>
     </tr>
     <tr>
