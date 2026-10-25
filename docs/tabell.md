@@ -10,7 +10,7 @@ Her vil du finne informasjon om tabellene i 2 divisjon menn avdeling 1 og 3 div 
 
     Disse tabellene er hentet fra [2 divisjon menn avdeling 1](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller) og [3 div kvinner region sør](https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller), og oppdateres jevnlig. Tabellen viser lagene i ligaen, antall kamper spilt, seire, uavgjorte, tap, mål for, mål mot og poeng.
 
-Tabellene er sist oppdatert: 2026-10-25 00:07:38
+Tabellene er sist oppdatert: 2026-10-26 00:10:46
 
 ## A-lag Herrer
 
@@ -32,16 +32,27 @@ Tabellene er sist oppdatert: 2026-10-25 00:07:38
     <tr>
       <td>1</td>
       <td>Jerv</td>
-      <td>24</td>
+      <td>25</td>
       <td>17</td>
       <td>5</td>
-      <td>2</td>
-      <td>53 - 26</td>
-      <td>27</td>
+      <td>3</td>
+      <td>53 - 30</td>
+      <td>23</td>
       <td>56</td>
     </tr>
     <tr>
       <td>2</td>
+      <td>Bjarg</td>
+      <td>25</td>
+      <td>17</td>
+      <td>2</td>
+      <td>6</td>
+      <td>60 - 31</td>
+      <td>29</td>
+      <td>53</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Brattvåg</td>
       <td>25</td>
       <td>16</td>
@@ -50,17 +61,6 @@ Tabellene er sist oppdatert: 2026-10-25 00:07:38
       <td>55 - 34</td>
       <td>21</td>
       <td>51</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Bjarg</td>
-      <td>24</td>
-      <td>16</td>
-      <td>2</td>
-      <td>6</td>
-      <td>56 - 31</td>
-      <td>25</td>
-      <td>50</td>
     </tr>
     <tr>
       <td>4</td>
@@ -129,23 +129,23 @@ Tabellene er sist oppdatert: 2026-10-25 00:07:38
     <tr class="row-highlight">
       <td>2</td>
       <td>Arendal Kvinner</td>
-      <td>19</td>
-      <td>14</td>
+      <td>20</td>
+      <td>15</td>
       <td>2</td>
       <td>3</td>
-      <td>56 - 23</td>
-      <td>33</td>
-      <td>44</td>
+      <td>65 - 23</td>
+      <td>42</td>
+      <td>47</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Odds Ballklubb 2</td>
-      <td>19</td>
+      <td>20</td>
       <td>13</td>
       <td>3</td>
-      <td>3</td>
-      <td>62 - 27</td>
-      <td>35</td>
+      <td>4</td>
+      <td>62 - 36</td>
+      <td>26</td>
       <td>42</td>
     </tr>
     <tr>
